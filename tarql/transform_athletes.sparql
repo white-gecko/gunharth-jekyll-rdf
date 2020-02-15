@@ -1,0 +1,49 @@
+prefix dbo: <http://dbpedia.org/ontology/>
+prefix ex: <http://example.org/ontology/olympics/>
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+CONSTRUCT {
+  # Athlete
+  ?uri a foaf:Person ;
+      foaf:name ?NameLang;
+      rdfs:label ?NameLang;
+      foaf:gender ?Gender;
+      dbo:birthYear ?birthYear;
+      ex:noc ?nocUri .
+      #seealso
+  # Sex
+  ?Gender rdfs:label ?genderFull;
+}
+FROM <file:olympics.csv>
+WHERE {
+  BIND( "http://example.org/resource/olympics/" AS ?baseURI )
+
+  # Name
+  # BIND( REPLACE(?Name, "[^a-zA-Z0–9]", "") AS ?NameClean )
+  # BIND ( URI( CONCAT(?baseURI, "athlete/", ?NameClean) ) AS ?uri )
+  BIND ( STRLANG(?Name, "en") AS ?NameLang)
+  BIND( REPLACE(?Name, " ", "_") AS ?nameUnderscore )
+  BIND( REPLACE(?nameUnderscore, "[^a-zA-Z0–9_]", "") AS ?nameClean )
+  BIND ( URI( CONCAT(?baseURI, "athlete/", ?nameClean) ) AS ?uri )
+
+  # Sex
+  BIND ( URI( CONCAT(?baseURI, "gender/", ?Sex) ) AS ?Gender )
+  BIND ( IF( ?Sex = "F", "female", "male" ) as ?genderFull )
+
+  # Age, Height, Weight
+  BIND ( xsd:integer(?Age) AS ?intAge )
+  BIND ( xsd:integer(?Height) AS ?intHeight )
+  BIND ( xsd:decimal(?Weight) AS ?decWeight )
+  BIND ( (xsd:integer(?Year) - ?intAge)  AS ?birthYear )
+  # BIND ( xsd:integer(?Year) AS ?birthYear )
+
+  #NOC
+  BIND ( URI( CONCAT(?baseURI, "NOC/", ?NOC) ) AS ?nocUri )
+
+  # Filter for Austrians only
+  FILTER ( regex(str(?NOC), "AUT") )
+}
+# LIMIT 10

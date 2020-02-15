@@ -1,0 +1,44 @@
+prefix dbo: <http://dbpedia.org/ontology/>
+prefix ex: <http://example.org/ontology/>
+prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# "city","city_ascii","lat","lng","country","iso2","iso3","admin_name","capital","population","id"
+
+CONSTRUCT {
+  # Instance
+  ?uri
+    ex:athlete ?NameUri;
+    ex:event ?EventUri;
+    ex:games ?GamesUri;
+    ex:medal ?MedalUri .
+}
+FROM <file:worldcities.csv>
+WHERE {
+  BIND( "http://example.org/resource/city/" AS ?baseURI )
+
+  # athlete
+  BIND( REPLACE(?city, " ", "_") AS ?cityUnderscore )
+  BIND( REPLACE(?cityUnderscore, "[^a-zA-Z0–9_]", "") AS ?cityClean )
+  BIND ( URI( CONCAT(?baseURI, ?cityClean) ) AS ?NameUri )
+
+  # # instance uri
+  # BIND ( STRLANG(?Event, "en") AS ?EventLang)
+  BIND( REPLACE(?Event, "[^a-zA-Z0–9_]", "") AS ?eventClean )
+  BIND ( URI( CONCAT(?baseURI, "instance/", ?eventClean, "/", ?Year, "/", ?Season, "/", ?nameClean) ) AS ?uri )
+
+  # event
+  BIND ( URI( CONCAT(?baseURI, "event/", ?eventClean) ) AS ?EventUri )
+
+  # games
+  BIND ( URI( CONCAT(?baseURI, "games/", ?Year, "/", ?Season) ) AS ?GamesUri )
+
+  # medal
+  BIND (IF(?Medal != 'NA', URI( CONCAT(?baseURI, "medal", "/", ?Medal) ), ?nothing) AS ?MedalUri)
+
+  # Filter for Austrians only
+  # FILTER ( regex(str(?NOC), "AUT") )
+}
+# LIMIT 10

@@ -36,9 +36,12 @@ plugins:
   - jekyll-rdf
 
 jekyll_rdf:
-    # path: "_data/Athletes.ttl"
-    remote:
-      endpoint: "http://10.0.1.88:7200/repositories/Olympics"
+    path: "_data/combined.ttl"
+    # remote:
+    #   endpoint: "http://192.168.0.129:7200/repositories/Olympics"
+    #   restriction: "SELECT ?resourceUri WHERE {?resourceUri ?p ?o .
+    #             FILTER regex(str(?resourceUri),
+    #             '^http://example.org/resource/olympics/')}"
     default_template: "athletes"
     class_template_mappings:
         "http://xmlns.com/foaf/0.1/Person": "athlete"
