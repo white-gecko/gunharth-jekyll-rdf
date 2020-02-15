@@ -7,7 +7,7 @@ description: "Austrian Gold Medalists"
 ---
 
 {% capture query %}
-SELECT ?athleteLabel ?medalLabel ?cityName ?year
+SELECT ?athlete
     WHERE {
         ?instance ex:athlete ?athlete;
                   ex:medal ?medal;
