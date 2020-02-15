@@ -1,0 +1,14 @@
+---
+rdf_prefix_path: "_data/prefixes.sparql"
+layout: page
+---
+
+<h1>{{ page.rdf | rdf_property: "foaf:name" }}</h1>
+{{ page.rdf }}
+
+<dl>
+    <dt>Age:</dt>
+    <dd>{{ page.rdf | rdf_property: "foaf:age" }}</dd>
+    <dt>Birth year:</dt>
+    <dd>{{ page.rdf | rdf_property: "dbo:birthYear" }}</dd>
+</dl>

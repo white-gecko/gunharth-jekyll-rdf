@@ -1,0 +1,38 @@
+---
+layout: page
+title: Athletes
+rdf_prefix_path: "_data/prefixes.sparql"
+weight: 100
+description: "Here you can find a list of my publications. Most of them with an open accessible link."
+---
+
+{% capture query %}
+SELECT ?athleteLabel ?medalLabel ?cityName ?year
+    WHERE {
+        ?instance ex:athlete ?athlete;
+                  ex:medal ?medal;
+                  ex:games ?games;
+                  ex:event ?event .
+        ?athlete foaf:name ?athleteLabel .
+        ?medal rdfs:label ?medalLabel .
+        ?games dbo:location ?city ;
+        ex:season ?season;
+        dbo:year ?year .
+        ?city rdfs:label ?cityName .
+        ?season rdfs:label ?seasonName .
+        FILTER CONTAINS(?medalLabel,"Gold") .
+    }
+    ORDER BY DESC(?year)
+{% endcapture %}
+{% assign resultset = page.rdf | sparql_query: query %}
+
+{% for result in resultset %}
+<!-- {{ result.athlete }} -->
+<div class="posts">
+    <div>
+        <h3 class="post-link">
+          <a href="{{ result.athlete.page_url }}">{{ result.athlete | rdf_property: "foaf:name" }}</a>
+        </h3>
+    </div>
+</div>
+{% endfor %}

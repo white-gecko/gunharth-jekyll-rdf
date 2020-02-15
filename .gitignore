@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+_data
+.DS_Store
+tarql
+_config_remote.yml
