@@ -34,9 +34,9 @@ WHERE {
   BIND ( IF( ?Sex = "F", "female", "male" ) as ?genderFull )
 
   # Age, Height, Weight
-  BIND ( xsd:integer(?Age) AS ?intAge )
-  BIND ( xsd:integer(?Height) AS ?intHeight )
-  BIND ( xsd:decimal(?Weight) AS ?decWeight )
+  #BIND ( xsd:integer(?Age) AS ?intAge )
+  #BIND ( xsd:integer(?Height) AS ?intHeight )
+  #BIND ( xsd:decimal(?Weight) AS ?decWeight )
   BIND ( (xsd:integer(?Year) - ?intAge)  AS ?birthYear )
   # BIND ( xsd:integer(?Year) AS ?birthYear )
 

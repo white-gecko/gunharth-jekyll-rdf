@@ -7,7 +7,7 @@ layout: page
 {{ page.rdf }}
 
 <dl>
-    <dt>Age:</dt>
+    <dt class="red">Age:</dt>
     <dd>{{ page.rdf | rdf_property: "foaf:age" }}</dd>
     <dt>Birth year:</dt>
     <dd>{{ page.rdf | rdf_property: "dbo:birthYear" }}</dd>
