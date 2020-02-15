@@ -12,3 +12,43 @@ layout: page
     <dt>Birth year:</dt>
     <dd>{{ page.rdf | rdf_property: "dbo:birthYear" }}</dd>
 </dl>
+
+{% capture query %}
+SELECT ?games ?year ?sport ?medalLabel
+    WHERE {
+        ?instance ex:athlete ?athlete;
+                  ex:medal ?medal;
+                  ex:games ?games;
+                  ex:event ?event .
+
+        ?athlete foaf:name '{{ page.rdf | rdf_property: "foaf:name" }}'@en .
+
+        ?medal rdfs:label ?medalLabel .
+         #OPTIONAL {
+          #  ?instance ex:medal ?medal .
+         #   ?medal rdfs:label ?medalLabel
+        #} .
+
+        ?games dbo:location ?city ;
+        ex:season ?season;
+        dbo:year ?year .
+
+    	?event rdfs:label ?sport .
+
+        ?city rdfs:label ?cityName .
+
+    }
+ORDER BY DESC(?year)
+{% endcapture %}
+{% assign resultset = page.rdf | sparql_query: query %}
+
+{% for result in resultset %}
+{{ result.games }}
+<div class="posts">
+    <div>
+        <h3 class="post-link">
+          <a href="/resource/olympics/games/{{ result.year }}/Winter">{{ result.year }} {{ result.sport }} {{ result.medalLabel }}</a>
+        </h3>
+    </div>
+</div>
+{% endfor %}

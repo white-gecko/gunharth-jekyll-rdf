@@ -1,10 +1,15 @@
-<!-- --- -->
-layout: page
-title: Athletes
-rdf_prefix_path: "_data/prefixes.sparql"
-weight: 100
-description: "Austrian Gold Medalists"
 ---
+rdf_prefix_path: "_data/prefixes.sparql"
+layout: page
+---
+
+<h1>{{ page.rdf | rdf_property: "dbo:year" }}</h1>
+{{ page.rdf }}
+
+<dl>
+    <dt class="red">Location:</dt>
+    <dd>{{ page.rdf | rdf_property: "dbo:location" }}</dd>
+</dl>
 
 {% capture query %}
 SELECT ?athlete
@@ -13,21 +18,28 @@ SELECT ?athlete
                   ex:medal ?medal;
                   ex:games ?games;
                   ex:event ?event .
+
         ?athlete foaf:name ?athleteLabel .
+
         ?medal rdfs:label ?medalLabel .
+
         ?games dbo:location ?city ;
         ex:season ?season;
         dbo:year ?year .
+
         ?city rdfs:label ?cityName .
+
         ?season rdfs:label ?seasonName .
-        FILTER CONTAINS(?medalLabel,"Gold") .
+
+        FILTER(?year = {{ page.rdf | rdf_property: "dbo:year" }}).
+
     }
-    ORDER BY DESC(?year)
+    ORDER BY ASC(?athleteLabel)
 {% endcapture %}
 {% assign resultset = page.rdf | sparql_query: query %}
 
 {% for result in resultset %}
-<!-- {{ result.athlete }} -->
+{{ result.athlete }}
 <div class="posts">
     <div>
         <h3 class="post-link">

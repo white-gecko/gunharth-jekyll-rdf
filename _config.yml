@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Austrian Olympics
+title: Austrians @ Winter Olympics
 email: hello@gunharth.io
 description: >- # this means to ignore newlines until "baseurl:"
  A jekyll site using the RDF-Plugin
@@ -40,8 +40,9 @@ jekyll_rdf:
     #             FILTER regex(str(?resourceUri),
     #             '^http://example.org/resource/olympics/')}"
     default_template: "athletes"
-    # class_template_mappings:
-    #     "http://xmlns.com/foaf/0.1/Person": "athlete"
+    class_template_mappings:
+        "http://xmlns.com/foaf/0.1/Person": "athlete"
+        "http://dbpedia.org/ontology/Olympics": "games"
     exclude:
       - tarql
 

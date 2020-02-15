@@ -30,8 +30,6 @@ SELECT ?games
 
     }
 GROUP BY ?year ?games
-ORDER BY DESC(?year)
-
 {% endcapture %}
 {% assign resultset = page.rdf | sparql_query: query %}
 
