@@ -1,3 +1,462 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab8d8f12177c8b155c4db22c2001b5d4636137ea32e7e8886e6ee665e45091db
-size 16885
+@prefix dbo: <http://dbpedia.org/ontology/> .
+
+
+<http://example.org/resource/olympics/NOC/AFG> dbo:country "Afghanistan" .
+
+<http://example.org/resource/olympics/NOC/AHO> dbo:country "Curacao" .
+
+<http://example.org/resource/olympics/NOC/ALB> dbo:country "Albania" .
+
+<http://example.org/resource/olympics/NOC/ALG> dbo:country "Algeria" .
+
+<http://example.org/resource/olympics/NOC/AND> dbo:country "Andorra" .
+
+<http://example.org/resource/olympics/NOC/ANG> dbo:country "Angola" .
+
+<http://example.org/resource/olympics/NOC/ANT> dbo:country "Antigua" .
+
+<http://example.org/resource/olympics/NOC/ANZ> dbo:country "Australia" .
+
+<http://example.org/resource/olympics/NOC/ARG> dbo:country "Argentina" .
+
+<http://example.org/resource/olympics/NOC/ARM> dbo:country "Armenia" .
+
+<http://example.org/resource/olympics/NOC/ARU> dbo:country "Aruba" .
+
+<http://example.org/resource/olympics/NOC/ASA> dbo:country "American Samoa" .
+
+<http://example.org/resource/olympics/NOC/AUS> dbo:country "Australia" .
+
+<http://example.org/resource/olympics/NOC/AUT> dbo:country "Austria" .
+
+<http://example.org/resource/olympics/NOC/AZE> dbo:country "Azerbaijan" .
+
+<http://example.org/resource/olympics/NOC/BAH> dbo:country "Bahamas" .
+
+<http://example.org/resource/olympics/NOC/BAN> dbo:country "Bangladesh" .
+
+<http://example.org/resource/olympics/NOC/BAR> dbo:country "Barbados" .
+
+<http://example.org/resource/olympics/NOC/BDI> dbo:country "Burundi" .
+
+<http://example.org/resource/olympics/NOC/BEL> dbo:country "Belgium" .
+
+<http://example.org/resource/olympics/NOC/BEN> dbo:country "Benin" .
+
+<http://example.org/resource/olympics/NOC/BER> dbo:country "Bermuda" .
+
+<http://example.org/resource/olympics/NOC/BHU> dbo:country "Bhutan" .
+
+<http://example.org/resource/olympics/NOC/BIH> dbo:country "Bosnia and Herzegovina" .
+
+<http://example.org/resource/olympics/NOC/BIZ> dbo:country "Belize" .
+
+<http://example.org/resource/olympics/NOC/BLR> dbo:country "Belarus" .
+
+<http://example.org/resource/olympics/NOC/BOH> dbo:country "Czech Republic" .
+
+<http://example.org/resource/olympics/NOC/BOL> dbo:country "Boliva" .
+
+<http://example.org/resource/olympics/NOC/BOT> dbo:country "Botswana" .
+
+<http://example.org/resource/olympics/NOC/BRA> dbo:country "Brazil" .
+
+<http://example.org/resource/olympics/NOC/BRN> dbo:country "Bahrain" .
+
+<http://example.org/resource/olympics/NOC/BRU> dbo:country "Brunei" .
+
+<http://example.org/resource/olympics/NOC/BUL> dbo:country "Bulgaria" .
+
+<http://example.org/resource/olympics/NOC/BUR> dbo:country "Burkina Faso" .
+
+<http://example.org/resource/olympics/NOC/CAF> dbo:country "Central African Republic" .
+
+<http://example.org/resource/olympics/NOC/CAM> dbo:country "Cambodia" .
+
+<http://example.org/resource/olympics/NOC/CAN> dbo:country "Canada" .
+
+<http://example.org/resource/olympics/NOC/CAY> dbo:country "Cayman Islands" .
+
+<http://example.org/resource/olympics/NOC/CGO> dbo:country "Republic of Congo" .
+
+<http://example.org/resource/olympics/NOC/CHA> dbo:country "Chad" .
+
+<http://example.org/resource/olympics/NOC/CHI> dbo:country "Chile" .
+
+<http://example.org/resource/olympics/NOC/CHN> dbo:country "China" .
+
+<http://example.org/resource/olympics/NOC/CIV> dbo:country "Ivory Coast" .
+
+<http://example.org/resource/olympics/NOC/CMR> dbo:country "Cameroon" .
+
+<http://example.org/resource/olympics/NOC/COD> dbo:country "Democratic Republic of the Congo" .
+
+<http://example.org/resource/olympics/NOC/COK> dbo:country "Cook Islands" .
+
+<http://example.org/resource/olympics/NOC/COL> dbo:country "Colombia" .
+
+<http://example.org/resource/olympics/NOC/COM> dbo:country "Comoros" .
+
+<http://example.org/resource/olympics/NOC/CPV> dbo:country "Cape Verde" .
+
+<http://example.org/resource/olympics/NOC/CRC> dbo:country "Costa Rica" .
+
+<http://example.org/resource/olympics/NOC/CRO> dbo:country "Croatia" .
+
+<http://example.org/resource/olympics/NOC/CRT> dbo:country "Greece" .
+
+<http://example.org/resource/olympics/NOC/CUB> dbo:country "Cuba" .
+
+<http://example.org/resource/olympics/NOC/CYP> dbo:country "Cyprus" .
+
+<http://example.org/resource/olympics/NOC/CZE> dbo:country "Czech Republic" .
+
+<http://example.org/resource/olympics/NOC/DEN> dbo:country "Denmark" .
+
+<http://example.org/resource/olympics/NOC/DJI> dbo:country "Djibouti" .
+
+<http://example.org/resource/olympics/NOC/DMA> dbo:country "Dominica" .
+
+<http://example.org/resource/olympics/NOC/DOM> dbo:country "Dominican Republic" .
+
+<http://example.org/resource/olympics/NOC/ECU> dbo:country "Ecuador" .
+
+<http://example.org/resource/olympics/NOC/EGY> dbo:country "Egypt" .
+
+<http://example.org/resource/olympics/NOC/ERI> dbo:country "Eritrea" .
+
+<http://example.org/resource/olympics/NOC/ESA> dbo:country "El Salvador" .
+
+<http://example.org/resource/olympics/NOC/ESP> dbo:country "Spain" .
+
+<http://example.org/resource/olympics/NOC/EST> dbo:country "Estonia" .
+
+<http://example.org/resource/olympics/NOC/ETH> dbo:country "Ethiopia" .
+
+<http://example.org/resource/olympics/NOC/EUN> dbo:country "Russia" .
+
+<http://example.org/resource/olympics/NOC/FIJ> dbo:country "Fiji" .
+
+<http://example.org/resource/olympics/NOC/FIN> dbo:country "Finland" .
+
+<http://example.org/resource/olympics/NOC/FRA> dbo:country "France" .
+
+<http://example.org/resource/olympics/NOC/FRG> dbo:country "Germany" .
+
+<http://example.org/resource/olympics/NOC/FSM> dbo:country "Micronesia" .
+
+<http://example.org/resource/olympics/NOC/GAB> dbo:country "Gabon" .
+
+<http://example.org/resource/olympics/NOC/GAM> dbo:country "Gambia" .
+
+<http://example.org/resource/olympics/NOC/GBR> dbo:country "UK" .
+
+<http://example.org/resource/olympics/NOC/GBS> dbo:country "Guinea-Bissau" .
+
+<http://example.org/resource/olympics/NOC/GDR> dbo:country "Germany" .
+
+<http://example.org/resource/olympics/NOC/GEO> dbo:country "Georgia" .
+
+<http://example.org/resource/olympics/NOC/GEQ> dbo:country "Equatorial Guinea" .
+
+<http://example.org/resource/olympics/NOC/GER> dbo:country "Germany" .
+
+<http://example.org/resource/olympics/NOC/GHA> dbo:country "Ghana" .
+
+<http://example.org/resource/olympics/NOC/GRE> dbo:country "Greece" .
+
+<http://example.org/resource/olympics/NOC/GRN> dbo:country "Grenada" .
+
+<http://example.org/resource/olympics/NOC/GUA> dbo:country "Guatemala" .
+
+<http://example.org/resource/olympics/NOC/GUI> dbo:country "Guinea" .
+
+<http://example.org/resource/olympics/NOC/GUM> dbo:country "Guam" .
+
+<http://example.org/resource/olympics/NOC/GUY> dbo:country "Guyana" .
+
+<http://example.org/resource/olympics/NOC/HAI> dbo:country "Haiti" .
+
+<http://example.org/resource/olympics/NOC/HKG> dbo:country "China" .
+
+<http://example.org/resource/olympics/NOC/HON> dbo:country "Honduras" .
+
+<http://example.org/resource/olympics/NOC/HUN> dbo:country "Hungary" .
+
+<http://example.org/resource/olympics/NOC/INA> dbo:country "Indonesia" .
+
+<http://example.org/resource/olympics/NOC/IND> dbo:country "India" .
+
+<http://example.org/resource/olympics/NOC/IOA> dbo:country "Individual Olympic Athletes" .
+
+<http://example.org/resource/olympics/NOC/IRI> dbo:country "Iran" .
+
+<http://example.org/resource/olympics/NOC/IRL> dbo:country "Ireland" .
+
+<http://example.org/resource/olympics/NOC/IRQ> dbo:country "Iraq" .
+
+<http://example.org/resource/olympics/NOC/ISL> dbo:country "Iceland" .
+
+<http://example.org/resource/olympics/NOC/ISR> dbo:country "Israel" .
+
+<http://example.org/resource/olympics/NOC/ISV> dbo:country "Virgin Islands, US" .
+
+<http://example.org/resource/olympics/NOC/ITA> dbo:country "Italy" .
+
+<http://example.org/resource/olympics/NOC/IVB> dbo:country "Virgin Islands, British" .
+
+<http://example.org/resource/olympics/NOC/JAM> dbo:country "Jamaica" .
+
+<http://example.org/resource/olympics/NOC/JOR> dbo:country "Jordan" .
+
+<http://example.org/resource/olympics/NOC/JPN> dbo:country "Japan" .
+
+<http://example.org/resource/olympics/NOC/KAZ> dbo:country "Kazakhstan" .
+
+<http://example.org/resource/olympics/NOC/KEN> dbo:country "Kenya" .
+
+<http://example.org/resource/olympics/NOC/KGZ> dbo:country "Kyrgyzstan" .
+
+<http://example.org/resource/olympics/NOC/KIR> dbo:country "Kiribati" .
+
+<http://example.org/resource/olympics/NOC/KOR> dbo:country "South Korea" .
+
+<http://example.org/resource/olympics/NOC/KOS> dbo:country "Kosovo" .
+
+<http://example.org/resource/olympics/NOC/KSA> dbo:country "Saudi Arabia" .
+
+<http://example.org/resource/olympics/NOC/KUW> dbo:country "Kuwait" .
+
+<http://example.org/resource/olympics/NOC/LAO> dbo:country "Laos" .
+
+<http://example.org/resource/olympics/NOC/LAT> dbo:country "Latvia" .
+
+<http://example.org/resource/olympics/NOC/LBA> dbo:country "Libya" .
+
+<http://example.org/resource/olympics/NOC/LBR> dbo:country "Liberia" .
+
+<http://example.org/resource/olympics/NOC/LCA> dbo:country "Saint Lucia" .
+
+<http://example.org/resource/olympics/NOC/LES> dbo:country "Lesotho" .
+
+<http://example.org/resource/olympics/NOC/LIB> dbo:country "Lebanon" .
+
+<http://example.org/resource/olympics/NOC/LIE> dbo:country "Liechtenstein" .
+
+<http://example.org/resource/olympics/NOC/LTU> dbo:country "Lithuania" .
+
+<http://example.org/resource/olympics/NOC/LUX> dbo:country "Luxembourg" .
+
+<http://example.org/resource/olympics/NOC/MAD> dbo:country "Madagascar" .
+
+<http://example.org/resource/olympics/NOC/MAL> dbo:country "Malaysia" .
+
+<http://example.org/resource/olympics/NOC/MAR> dbo:country "Morocco" .
+
+<http://example.org/resource/olympics/NOC/MAS> dbo:country "Malaysia" .
+
+<http://example.org/resource/olympics/NOC/MAW> dbo:country "Malawi" .
+
+<http://example.org/resource/olympics/NOC/MDA> dbo:country "Moldova" .
+
+<http://example.org/resource/olympics/NOC/MDV> dbo:country "Maldives" .
+
+<http://example.org/resource/olympics/NOC/MEX> dbo:country "Mexico" .
+
+<http://example.org/resource/olympics/NOC/MGL> dbo:country "Mongolia" .
+
+<http://example.org/resource/olympics/NOC/MHL> dbo:country "Marshall Islands" .
+
+<http://example.org/resource/olympics/NOC/MKD> dbo:country "Macedonia" .
+
+<http://example.org/resource/olympics/NOC/MLI> dbo:country "Mali" .
+
+<http://example.org/resource/olympics/NOC/MLT> dbo:country "Malta" .
+
+<http://example.org/resource/olympics/NOC/MNE> dbo:country "Montenegro" .
+
+<http://example.org/resource/olympics/NOC/MON> dbo:country "Monaco" .
+
+<http://example.org/resource/olympics/NOC/MOZ> dbo:country "Mozambique" .
+
+<http://example.org/resource/olympics/NOC/MRI> dbo:country "Mauritius" .
+
+<http://example.org/resource/olympics/NOC/MTN> dbo:country "Mauritania" .
+
+<http://example.org/resource/olympics/NOC/MYA> dbo:country "Myanmar" .
+
+<http://example.org/resource/olympics/NOC/NAM> dbo:country "Namibia" .
+
+<http://example.org/resource/olympics/NOC/NBO> dbo:country "Malaysia" .
+
+<http://example.org/resource/olympics/NOC/NCA> dbo:country "Nicaragua" .
+
+<http://example.org/resource/olympics/NOC/NED> dbo:country "Netherlands" .
+
+<http://example.org/resource/olympics/NOC/NEP> dbo:country "Nepal" .
+
+<http://example.org/resource/olympics/NOC/NFL> dbo:country "Canada" .
+
+<http://example.org/resource/olympics/NOC/NGR> dbo:country "Nigeria" .
+
+<http://example.org/resource/olympics/NOC/NIG> dbo:country "Niger" .
+
+<http://example.org/resource/olympics/NOC/NOR> dbo:country "Norway" .
+
+<http://example.org/resource/olympics/NOC/NRU> dbo:country "Nauru" .
+
+<http://example.org/resource/olympics/NOC/NZL> dbo:country "New Zealand" .
+
+<http://example.org/resource/olympics/NOC/OMA> dbo:country "Oman" .
+
+<http://example.org/resource/olympics/NOC/PAK> dbo:country "Pakistan" .
+
+<http://example.org/resource/olympics/NOC/PAN> dbo:country "Panama" .
+
+<http://example.org/resource/olympics/NOC/PAR> dbo:country "Paraguay" .
+
+<http://example.org/resource/olympics/NOC/PER> dbo:country "Peru" .
+
+<http://example.org/resource/olympics/NOC/PHI> dbo:country "Philippines" .
+
+<http://example.org/resource/olympics/NOC/PLE> dbo:country "Palestine" .
+
+<http://example.org/resource/olympics/NOC/PLW> dbo:country "Palau" .
+
+<http://example.org/resource/olympics/NOC/PNG> dbo:country "Papua New Guinea" .
+
+<http://example.org/resource/olympics/NOC/POL> dbo:country "Poland" .
+
+<http://example.org/resource/olympics/NOC/POR> dbo:country "Portugal" .
+
+<http://example.org/resource/olympics/NOC/PRK> dbo:country "North Korea" .
+
+<http://example.org/resource/olympics/NOC/PUR> dbo:country "Puerto Rico" .
+
+<http://example.org/resource/olympics/NOC/QAT> dbo:country "Qatar" .
+
+<http://example.org/resource/olympics/NOC/RHO> dbo:country "Zimbabwe" .
+
+<http://example.org/resource/olympics/NOC/ROT> dbo:country "NA" .
+
+<http://example.org/resource/olympics/NOC/ROU> dbo:country "Romania" .
+
+<http://example.org/resource/olympics/NOC/RSA> dbo:country "South Africa" .
+
+<http://example.org/resource/olympics/NOC/RUS> dbo:country "Russia" .
+
+<http://example.org/resource/olympics/NOC/RWA> dbo:country "Rwanda" .
+
+<http://example.org/resource/olympics/NOC/SAA> dbo:country "Germany" .
+
+<http://example.org/resource/olympics/NOC/SAM> dbo:country "Samoa" .
+
+<http://example.org/resource/olympics/NOC/SCG> dbo:country "Serbia" .
+
+<http://example.org/resource/olympics/NOC/SEN> dbo:country "Senegal" .
+
+<http://example.org/resource/olympics/NOC/SEY> dbo:country "Seychelles" .
+
+<http://example.org/resource/olympics/NOC/SIN> dbo:country "Singapore" .
+
+<http://example.org/resource/olympics/NOC/SKN> dbo:country "Saint Kitts" .
+
+<http://example.org/resource/olympics/NOC/SLE> dbo:country "Sierra Leone" .
+
+<http://example.org/resource/olympics/NOC/SLO> dbo:country "Slovenia" .
+
+<http://example.org/resource/olympics/NOC/SMR> dbo:country "San Marino" .
+
+<http://example.org/resource/olympics/NOC/SOL> dbo:country "Solomon Islands" .
+
+<http://example.org/resource/olympics/NOC/SOM> dbo:country "Somalia" .
+
+<http://example.org/resource/olympics/NOC/SRB> dbo:country "Serbia" .
+
+<http://example.org/resource/olympics/NOC/SRI> dbo:country "Sri Lanka" .
+
+<http://example.org/resource/olympics/NOC/SSD> dbo:country "South Sudan" .
+
+<http://example.org/resource/olympics/NOC/STP> dbo:country "Sao Tome and Principe" .
+
+<http://example.org/resource/olympics/NOC/SUD> dbo:country "Sudan" .
+
+<http://example.org/resource/olympics/NOC/SUI> dbo:country "Switzerland" .
+
+<http://example.org/resource/olympics/NOC/SUR> dbo:country "Suriname" .
+
+<http://example.org/resource/olympics/NOC/SVK> dbo:country "Slovakia" .
+
+<http://example.org/resource/olympics/NOC/SWE> dbo:country "Sweden" .
+
+<http://example.org/resource/olympics/NOC/SWZ> dbo:country "Swaziland" .
+
+<http://example.org/resource/olympics/NOC/SYR> dbo:country "Syria" .
+
+<http://example.org/resource/olympics/NOC/TAN> dbo:country "Tanzania" .
+
+<http://example.org/resource/olympics/NOC/TCH> dbo:country "Czech Republic" .
+
+<http://example.org/resource/olympics/NOC/TGA> dbo:country "Tonga" .
+
+<http://example.org/resource/olympics/NOC/THA> dbo:country "Thailand" .
+
+<http://example.org/resource/olympics/NOC/TJK> dbo:country "Tajikistan" .
+
+<http://example.org/resource/olympics/NOC/TKM> dbo:country "Turkmenistan" .
+
+<http://example.org/resource/olympics/NOC/TLS> dbo:country "Timor-Leste" .
+
+<http://example.org/resource/olympics/NOC/TOG> dbo:country "Togo" .
+
+<http://example.org/resource/olympics/NOC/TPE> dbo:country "Taiwan" .
+
+<http://example.org/resource/olympics/NOC/TTO> dbo:country "Trinidad" .
+
+<http://example.org/resource/olympics/NOC/TUN> dbo:country "Tunisia" .
+
+<http://example.org/resource/olympics/NOC/TUR> dbo:country "Turkey" .
+
+<http://example.org/resource/olympics/NOC/TUV> dbo:country "NA" .
+
+<http://example.org/resource/olympics/NOC/UAE> dbo:country "United Arab Emirates" .
+
+<http://example.org/resource/olympics/NOC/UAR> dbo:country "Syria" .
+
+<http://example.org/resource/olympics/NOC/UGA> dbo:country "Uganda" .
+
+<http://example.org/resource/olympics/NOC/UKR> dbo:country "Ukraine" .
+
+<http://example.org/resource/olympics/NOC/UNK> dbo:country "NA" .
+
+<http://example.org/resource/olympics/NOC/URS> dbo:country "Russia" .
+
+<http://example.org/resource/olympics/NOC/URU> dbo:country "Uruguay" .
+
+<http://example.org/resource/olympics/NOC/USA> dbo:country "USA" .
+
+<http://example.org/resource/olympics/NOC/UZB> dbo:country "Uzbekistan" .
+
+<http://example.org/resource/olympics/NOC/VAN> dbo:country "Vanuatu" .
+
+<http://example.org/resource/olympics/NOC/VEN> dbo:country "Venezuela" .
+
+<http://example.org/resource/olympics/NOC/VIE> dbo:country "Vietnam" .
+
+<http://example.org/resource/olympics/NOC/VIN> dbo:country "Saint Vincent" .
+
+<http://example.org/resource/olympics/NOC/VNM> dbo:country "Vietnam" .
+
+<http://example.org/resource/olympics/NOC/WIF> dbo:country "Trinidad" .
+
+<http://example.org/resource/olympics/NOC/YAR> dbo:country "Yemen" .
+
+<http://example.org/resource/olympics/NOC/YEM> dbo:country "Yemen" .
+
+<http://example.org/resource/olympics/NOC/YMD> dbo:country "Yemen" .
+
+<http://example.org/resource/olympics/NOC/YUG> dbo:country "Serbia" .
+
+<http://example.org/resource/olympics/NOC/ZAM> dbo:country "Zambia" .
+
+<http://example.org/resource/olympics/NOC/ZIM> dbo:country "Zimbabwe" .

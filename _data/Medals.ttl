@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a6c1a9c5456e964a1c4db34fa392422fd60f97f354010812efcf3315a2c77a06
-size 286
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://example.org/resource/olympics/medal/Gold> rdfs:label "Gold"@en .
+
+<http://example.org/resource/olympics/medal/Silver> rdfs:label "Silver"@en .
+
+<http://example.org/resource/olympics/medal/Bronze> rdfs:label "Bronze"@en .

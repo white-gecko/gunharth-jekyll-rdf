@@ -1,3 +1,1355 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:926da4f9796676871c708eae07c8ce8d5ecef352e9f7615207001af9a3502381
-size 176678
+ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal
+2373,Kilian Albrecht,M,28,181,72,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+2373,Kilian Albrecht,M,28,181,72,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Combined,NA
+3109,Mario Altmann,M,27,193,98,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+4728,Ingo Appelt,M,26,182,86,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Two,NA
+4728,Ingo Appelt,M,26,182,86,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+4728,Ingo Appelt,M,30,182,86,Austria-2,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Two,NA
+4728,Ingo Appelt,M,30,182,86,Austria-1,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,Gold
+5222,Erwin Arnold,M,29,189,100,Austria-1,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+5499,Hansjrg Aschenwald,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Team,Bronze
+5499,Hansjrg Aschenwald,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Individual,NA
+5694,Armin Ignaz Assinger,M,29,191,94,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+5694,Armin Ignaz Assinger,M,29,191,94,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Super G,NA
+5922,Christian Auer,M,35,157,71,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Skeleton,Skeleton Men's Skeleton,NA
+6544,Thomas Bachler,M,26,193,110,Austria-1,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Two,NA
+6544,Thomas Bachler,M,26,193,110,Austria-2,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,NA
+6544,Thomas Bachler,M,28,193,110,Austria-2,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+6544,Thomas Bachler,M,32,193,110,Austria-2,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+6941,Philomena Bair,F,17,170,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Women's Slopestyle,NA
+8771,Romed Baumann,M,24,184,91,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+8771,Romed Baumann,M,24,184,91,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Combined,NA
+8771,Romed Baumann,M,28,184,91,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Combined,NA
+9165,Christoff Beck,M,24,185,79,Austria,AUT,1988 Winter,1988,Winter,Calgary,Figure Skating,Figure Skating Mixed Ice Dancing,NA
+9172,Kathrin Beck,F,21,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Figure Skating,Figure Skating Mixed Ice Dancing,NA
+10534,Heinrich Bergmller,M,27,180,86,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+11375,Christoph Bieler,M,20,180,70,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Team,NA
+11375,Christoph Bieler,M,20,180,70,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Individual,NA
+11375,Christoph Bieler,M,24,180,70,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Team,Bronze
+11375,Christoph Bieler,M,24,180,70,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Individual,NA
+11375,Christoph Bieler,M,24,180,70,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Sprint,NA
+11375,Christoph Bieler,M,28,180,70,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Team,Gold
+11375,Christoph Bieler,M,28,180,70,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Individual,NA
+11375,Christoph Bieler,M,28,180,70,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Sprint,NA
+11375,Christoph Bieler,M,32,180,70,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+11375,Christoph Bieler,M,32,180,70,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",NA
+11375,Christoph Bieler,M,36,180,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+11375,Christoph Bieler,M,36,180,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",NA
+11375,Christoph Bieler,M,36,180,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,Nordic Combined Men's Team,Bronze
+11857,Vanessa Bittner (-Herzog),F,18,175,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Speed Skating,Speed Skating Women's 500 metres,NA
+11857,Vanessa Bittner (-Herzog),F,18,175,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Speed Skating,"Speed Skating Women's 1,000 metres",NA
+11857,Vanessa Bittner (-Herzog),F,18,175,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+12205,Andr Blatter,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+12205,Andr Blatter,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+12205,Andr Blatter,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+13890,Mikhail Botvinov,M,34,185,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,Silver
+13890,Mikhail Botvinov,M,34,185,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+13890,Mikhail Botvinov,M,34,185,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 10/10 kilometres Pursuit,NA
+13890,Mikhail Botvinov,M,34,185,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+13890,Mikhail Botvinov,M,38,185,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,Bronze
+13890,Mikhail Botvinov,M,38,185,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 30 km Skiathlon,NA
+14650,Christoph Brandner,M,22,195,98,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+14650,Christoph Brandner,M,26,195,98,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+14906,Eva-Maria Brem,F,21,160,57,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+15800,Christine Brunner,F,20,172,69,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Women's Singles,NA
+15812,Roland Brunner,M,21,173,72,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,Speed Skating Men's 500 metres,NA
+15812,Roland Brunner,M,21,173,72,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Men's 1,000 metres",NA
+15812,Roland Brunner,M,21,173,72,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+15812,Roland Brunner,M,23,173,72,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,Speed Skating Men's 500 metres,NA
+15812,Roland Brunner,M,23,173,72,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Men's 1,000 metres",NA
+15812,Roland Brunner,M,23,173,72,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+15812,Roland Brunner,M,27,173,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,Speed Skating Men's 500 metres,NA
+15812,Roland Brunner,M,27,173,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Men's 1,000 metres",NA
+16145,Karin Buder,F,27,172,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+16553,Ralph Burghart,M,25,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Figure Skating,Figure Skating Men's Singles,NA
+16764,"James ""Jim"" Burton",M,32,183,86,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+21575,Thomas Cijan,M,23,178,75,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+21575,Thomas Cijan,M,27,178,75,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+24082,Gnther Csar,M,21,180,72,Austria,AUT,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Team,Bronze
+24082,Gnther Csar,M,21,180,72,Austria,AUT,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Individual,NA
+24082,Gnther Csar,M,25,180,72,Austria,AUT,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Individual,NA
+24343,"Richard Glenn ""Rick"" Cunningham",M,32,177,84,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+25012,"Richard ""Marty"" Dallman",M,30,179,82,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+25028,Claus Dalpiaz,M,22,175,68,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+25028,Claus Dalpiaz,M,26,175,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+27360,"Walter Delle Karth, Jr.",M,33,178,79,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+27360,"Walter Delle Karth, Jr.",M,37,178,79,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Two,NA
+27360,"Walter Delle Karth, Jr.",M,37,178,79,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+27579,Gnther Dengg,M,24,184,74,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 20 kilometres,NA
+27590,Wilhelm Denifl,M,33,178,69,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+28463,Roland Diethart,M,32,182,74,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+28464,Thomas Diethart,M,21,172,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+28464,Thomas Diethart,M,21,172,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+28464,Thomas Diethart,M,21,172,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+28799,Reinhard Divis,M,22,182,87,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+28799,Reinhard Divis,M,26,182,87,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+29031,Siegfried Dockner,M,23,180,75,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 20 kilometres,NA
+29483,Emese Drfler-Antal,F,22,167,55,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,Speed Skating Women's 500 metres,NA
+29483,Emese Drfler-Antal,F,22,167,55,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 1,000 metres",NA
+29483,Emese Drfler-Antal,F,22,167,55,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+29483,Emese Drfler-Antal,F,22,167,55,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+29483,Emese Drfler-Antal,F,22,167,55,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 5,000 metres",NA
+29483,Emese Drfler-Antal,F,26,167,55,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+29483,Emese Drfler-Antal,F,26,167,55,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+29485,Michaela Dorfmeister,F,24,172,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+29485,Michaela Dorfmeister,F,24,172,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Super G,Silver
+29485,Michaela Dorfmeister,F,24,172,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Combined,NA
+29485,Michaela Dorfmeister,F,28,172,72,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+29485,Michaela Dorfmeister,F,28,172,72,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Super G,NA
+29485,Michaela Dorfmeister,F,28,172,72,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+29485,Michaela Dorfmeister,F,28,172,72,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Combined,NA
+29485,Michaela Dorfmeister,F,32,172,72,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Downhill,Gold
+29485,Michaela Dorfmeister,F,32,172,72,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Super G,Gold
+29524,Konrad Dorn,M,21,184,88,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+29524,Konrad Dorn,M,25,184,88,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+29732,Hanno Douschan,M,24,171,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Boardercross,NA
+29822,"Robin ""Rob"" Doyle",M,30,182,85,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+30509,Julia Dujmovits,F,26,168,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+30509,Julia Dujmovits,F,26,168,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Slalom,Gold
+30851,Johannes Drr,M,26,177,63,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's 30 km Skiathlon,NA
+31236,Stephan Eberharter,M,22,180,85,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Combined,NA
+31236,Stephan Eberharter,M,28,180,85,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Super G,NA
+31236,Stephan Eberharter,M,28,180,85,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Silver
+31236,Stephan Eberharter,M,32,180,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Downhill,Bronze
+31236,Stephan Eberharter,M,32,180,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Super G,Silver
+31236,Stephan Eberharter,M,32,180,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Gold
+31244,Ingrid Eberle (-Trappel),F,22,160,50,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+31244,Ingrid Eberle (-Trappel),F,22,160,50,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+31244,Ingrid Eberle (-Trappel),F,22,160,50,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+31382,Alfred Eder,M,26,200,95,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+31382,Alfred Eder,M,26,200,95,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 20 kilometres,NA
+31382,Alfred Eder,M,26,200,95,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+31382,Alfred Eder,M,30,200,95,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+31382,Alfred Eder,M,30,200,95,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 20 kilometres,NA
+31382,Alfred Eder,M,30,200,95,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+31382,Alfred Eder,M,34,200,95,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+31382,Alfred Eder,M,34,200,95,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 20 kilometres,NA
+31382,Alfred Eder,M,34,200,95,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+31382,Alfred Eder,M,38,200,95,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+31382,Alfred Eder,M,38,200,95,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 20 kilometres,NA
+31382,Alfred Eder,M,40,200,95,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 20 kilometres,NA
+31383,"Elfriede ""Elfi"" Eder (-Rudolf)",F,24,171,62,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Slalom,Silver
+31386,Johannes Eder,M,26,184,81,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+31386,Johannes Eder,M,26,184,81,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's Team Sprint,NA
+31391,Simon Eder,M,26,186,79,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+31391,Simon Eder,M,26,186,79,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+31391,Simon Eder,M,26,186,79,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+31391,Simon Eder,M,26,186,79,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 20 kilometres,NA
+31391,Simon Eder,M,26,186,79,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Silver
+31391,Simon Eder,M,30,186,79,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+31391,Simon Eder,M,30,186,79,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+31391,Simon Eder,M,30,186,79,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+31391,Simon Eder,M,30,186,79,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 20 kilometres,NA
+31391,Simon Eder,M,30,186,79,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Bronze
+31392,Simone Eder,F,27,168,64,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Women's Singles,NA
+31393,Sylvia Eder,F,18,172,60,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+31393,Sylvia Eder,F,18,172,60,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+31393,Sylvia Eder,F,22,172,60,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Super G,NA
+31393,Sylvia Eder,F,22,172,60,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Combined,NA
+31393,Sylvia Eder,F,26,172,60,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+31393,Sylvia Eder,F,28,172,60,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Super G,NA
+31393,Sylvia Eder,F,28,172,60,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+31582,Reinhard Egger,M,24,191,96,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Men's Singles,NA
+31583,Sabine Egger,F,20,171,NA,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+31742,Kurt Einberger,M,28,194,98,Austria-2,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Two,NA
+31742,Kurt Einberger,M,28,194,98,Austria-2,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+31742,Kurt Einberger,M,32,194,98,Austria-2,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+32476,Hildegard Embacher,F,20,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 5 kilometres,NA
+32476,Hildegard Embacher,F,20,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+32476,Hildegard Embacher,F,20,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 20 kilometres,NA
+32498,Christian Eminger,M,19,179,74,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 1,000 metres",NA
+32498,Christian Eminger,M,19,179,74,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+32498,Christian Eminger,M,23,179,74,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,Speed Skating Men's 500 metres,NA
+32498,Christian Eminger,M,23,179,74,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+32498,Christian Eminger,M,23,179,74,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+32498,Christian Eminger,M,29,179,74,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+32498,Christian Eminger,M,29,179,74,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+32703,Hans Enn,M,21,167,64,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Bronze
+32703,Hans Enn,M,21,167,64,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+32703,Hans Enn,M,25,167,64,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+32703,Hans Enn,M,25,167,64,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+33402,Christoph Eugen,M,21,180,70,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Team,NA
+33402,Christoph Eugen,M,21,180,70,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Individual,NA
+33402,Christoph Eugen,M,25,180,70,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Individual,NA
+34511,Andreas Felder,M,21,183,70,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+34511,Andreas Felder,M,21,183,70,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+34511,Andreas Felder,M,25,183,70,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+34511,Andreas Felder,M,25,183,70,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+34511,Andreas Felder,M,25,183,70,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+34511,Andreas Felder,M,29,183,70,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+34511,Andreas Felder,M,29,183,70,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+34511,Andreas Felder,M,29,183,70,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+34637,Anna Fenninger (-Veith),F,20,166,64,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+34637,Anna Fenninger (-Veith),F,20,166,64,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Super G,NA
+34637,Anna Fenninger (-Veith),F,20,166,64,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Combined,NA
+34637,Anna Fenninger (-Veith),F,24,166,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+34637,Anna Fenninger (-Veith),F,24,166,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Super G,Gold
+34637,Anna Fenninger (-Veith),F,24,166,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Giant Slalom,Silver
+34637,Anna Fenninger (-Veith),F,24,166,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Combined,NA
+35409,Ursula Fingerlos,F,21,169,56,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Women's Giant Slalom,NA
+35490,Andrea Fischbacher,F,20,164,58,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Super G,NA
+35490,Andrea Fischbacher,F,24,164,58,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+35490,Andrea Fischbacher,F,24,164,58,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Super G,Gold
+35552,Georg Fischler,M,28,173,74,Austria-2,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed (Men)'s Doubles,NA
+35858,Janine Flock,F,24,174,63,Austria,AUT,2014 Winter,2014,Winter,Sochi,Skeleton,Skeleton Women's Skeleton,NA
+35964,Georg Fluckinger,M,24,NA,NA,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Mixed (Men)'s Doubles,Bronze
+35964,Georg Fluckinger,M,28,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Men's Singles,NA
+35964,Georg Fluckinger,M,28,NA,NA,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Mixed (Men)'s Doubles,NA
+35964,Georg Fluckinger,M,32,NA,NA,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Mixed (Men)'s Doubles,NA
+36755,Kerstin Frank,F,25,163,55,Austria,AUT,2014 Winter,2014,Winter,Sochi,Figure Skating,Figure Skating Women's Singles,NA
+36815,Max Franz,M,24,182,90,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+36815,Max Franz,M,24,182,90,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Super G,NA
+36815,Max Franz,M,24,182,90,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Combined,NA
+37038,Martin Freinademetz,M,28,175,75,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Men's Giant Slalom,NA
+37272,"Johann ""Hans"" Fritz",M,26,188,88,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+37416,Mario Fuchs,M,29,183,83,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Boardercross,NA
+37416,Mario Fuchs,M,33,183,83,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Boardercross,NA
+38284,Markus Gandler,M,26,178,72,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+38284,Markus Gandler,M,26,178,72,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+38284,Markus Gandler,M,26,178,72,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+38284,Markus Gandler,M,32,178,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,Silver
+38284,Markus Gandler,M,32,178,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+38284,Markus Gandler,M,32,178,72,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+38376,"Friedrich ""Fritz"" Ganster",M,23,172,77,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+38991,Anna Gasser,F,22,165,52,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Slopestyle,NA
+39047,Franz Gattermann,M,28,180,72,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+39047,Franz Gattermann,M,28,180,72,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+39047,Franz Gattermann,M,28,180,72,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+40757,Gerhard Gleirscher,M,22,184,92,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Mixed (Men)'s Doubles,NA
+40757,Gerhard Gleirscher,M,24,184,92,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Men's Singles,NA
+40757,Gerhard Gleirscher,M,28,184,92,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Men's Singles,NA
+41063,Andreas Gohl,M,20,189,88,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Halfpipe,NA
+41112,"Andreas ""Andi"" Goldberger",M,21,172,54,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+41112,"Andreas ""Andi"" Goldberger",M,21,172,54,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",Bronze
+41112,"Andreas ""Andi"" Goldberger",M,21,172,54,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+41112,"Andreas ""Andi"" Goldberger",M,25,172,54,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+41187,Annefried Gllner,F,16,165,68,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Women's Singles,NA
+41187,Annefried Gllner,F,20,165,68,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Women's Singles,NA
+41849,Elisabeth Grgl,F,24,167,66,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+41849,Elisabeth Grgl,F,28,167,66,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Downhill,Bronze
+41849,Elisabeth Grgl,F,28,167,66,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Super G,NA
+41849,Elisabeth Grgl,F,28,167,66,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Giant Slalom,Bronze
+41849,Elisabeth Grgl,F,28,167,66,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+41849,Elisabeth Grgl,F,28,167,66,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Combined,NA
+41849,Elisabeth Grgl,F,32,167,66,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+41849,Elisabeth Grgl,F,32,167,66,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Super G,NA
+41849,Elisabeth Grgl,F,32,167,66,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+41849,Elisabeth Grgl,F,32,167,66,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Combined,NA
+41850,Stephan Grgl,M,27,176,81,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+42003,Renate Gtschl,F,18,165,68,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+42003,Renate Gtschl,F,22,165,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+42003,Renate Gtschl,F,22,165,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Super G,NA
+42003,Renate Gtschl,F,22,165,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Combined,NA
+42003,Renate Gtschl,F,26,165,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Downhill,Bronze
+42003,Renate Gtschl,F,26,165,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Super G,NA
+42003,Renate Gtschl,F,26,165,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+42003,Renate Gtschl,F,26,165,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Combined,Silver
+42003,Renate Gtschl,F,30,165,68,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+42003,Renate Gtschl,F,30,165,68,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Super G,NA
+42019,Felix Gottwald,M,18,179,68,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Team,NA
+42019,Felix Gottwald,M,18,179,68,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Individual,NA
+42019,Felix Gottwald,M,22,179,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Team,NA
+42019,Felix Gottwald,M,22,179,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Individual,NA
+42019,Felix Gottwald,M,26,179,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Team,Bronze
+42019,Felix Gottwald,M,26,179,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Individual,Bronze
+42019,Felix Gottwald,M,26,179,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Sprint,Bronze
+42019,Felix Gottwald,M,30,179,68,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Team,Gold
+42019,Felix Gottwald,M,30,179,68,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Individual,Silver
+42019,Felix Gottwald,M,30,179,68,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Sprint,Gold
+42019,Felix Gottwald,M,34,179,68,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+42019,Felix Gottwald,M,34,179,68,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",NA
+42019,Felix Gottwald,M,34,179,68,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,Nordic Combined Men's Team,Gold
+42169,Michael Rene Grabner,M,26,186,85,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+42170,"Siegfried Josef ""Sigi"" Grabner",M,23,180,80,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Men's Giant Slalom,NA
+42170,"Siegfried Josef ""Sigi"" Grabner",M,27,180,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+42170,"Siegfried Josef ""Sigi"" Grabner",M,31,180,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Parallel Giant Slalom,Bronze
+42170,"Siegfried Josef ""Sigi"" Grabner",M,35,180,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+42232,Albert Graf,M,24,179,83,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Men's Singles,NA
+42582,Christian Greber,M,30,180,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+42601,Ludwig Gredler,M,24,181,79,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+42601,Ludwig Gredler,M,24,181,79,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+42601,Ludwig Gredler,M,26,181,79,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+42601,Ludwig Gredler,M,26,181,79,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 20 kilometres,NA
+42601,Ludwig Gredler,M,26,181,79,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+42601,Ludwig Gredler,M,30,181,79,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+42601,Ludwig Gredler,M,30,181,79,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 20 kilometres,NA
+42601,Ludwig Gredler,M,30,181,79,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+42601,Ludwig Gredler,M,34,181,79,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+42601,Ludwig Gredler,M,34,181,79,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+42601,Ludwig Gredler,M,34,181,79,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 20 kilometres,NA
+42601,Ludwig Gredler,M,34,181,79,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+42601,Ludwig Gredler,M,38,181,79,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+42601,Ludwig Gredler,M,38,181,79,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+42601,Ludwig Gredler,M,38,181,79,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 20 kilometres,NA
+42601,Ludwig Gredler,M,38,181,79,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+42656,"Kelvin ""Kelly"" Greenbank",M,28,182,79,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+42656,"Kelvin ""Kelly"" Greenbank",M,32,182,79,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+43039,Werner Grissmann,M,28,183,86,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+43198,Ferdinand Grssing,M,31,NA,NA,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+43244,Alfred Groyer,M,21,177,70,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+43267,Bernhard Gruber,M,27,185,71,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",Bronze
+43267,Bernhard Gruber,M,27,185,71,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,Nordic Combined Men's Team,Gold
+43267,Bernhard Gruber,M,31,185,71,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",NA
+43267,Bernhard Gruber,M,31,185,71,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,Nordic Combined Men's Team,Bronze
+43270,Christoph Gruber,M,25,180,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+43270,Christoph Gruber,M,25,180,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Super G,NA
+43270,Christoph Gruber,M,25,180,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+43270,Christoph Gruber,M,29,180,85,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Super G,NA
+43272,Franz Gruber,M,24,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+43272,Franz Gruber,M,24,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+43278,Michael Gruber,M,22,182,67,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Team,Bronze
+43278,Michael Gruber,M,22,182,67,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Sprint,NA
+43278,Michael Gruber,M,26,182,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Team,Gold
+43278,Michael Gruber,M,26,182,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Individual,NA
+43278,Michael Gruber,M,26,182,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Sprint,NA
+43299,"Johann ""Hans"" Grugger",M,28,180,90,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+43334,Lukas Grner,M,24,177,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Boardercross,NA
+43334,Lukas Grner,M,28,177,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Boardercross,NA
+43409,Bernhard Gstrein,M,22,184,88,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+43409,Bernhard Gstrein,M,22,184,88,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Combined,Silver
+43409,Bernhard Gstrein,M,26,184,88,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+43409,Bernhard Gstrein,M,28,184,88,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+43409,Bernhard Gstrein,M,28,184,88,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+43659,Matthias Guggenberger,M,25,180,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Skeleton,Skeleton Men's Skeleton,NA
+43659,Matthias Guggenberger,M,29,180,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Skeleton,Skeleton Men's Skeleton,NA
+43854,Andreas Gumpold,M,22,179,70,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+43854,Andreas Gumpold,M,22,179,70,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+43937,Doris Gnther,F,23,165,58,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+43937,Doris Gnther,F,27,165,58,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+43937,Doris Gnther,F,27,165,58,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Women's Boardercross,NA
+43937,Doris Gnther,F,31,165,58,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+43950,Michael Gntner,M,26,199,109,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+44143,"Katharina Anna ""Katrin"" Gutensohn (-Knopf-)",F,43,171,58,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Women's Ski Cross,NA
+44459,Anja Haas,F,22,179,75,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+44459,Anja Haas,F,22,179,75,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Combined,NA
+44573,Christian Hackl,M,28,184,92,Austria-2,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Two,NA
+44573,Christian Hackl,M,28,184,92,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Four,NA
+44627,Michael Florian Hadschieff,M,20,185,75,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,Speed Skating Men's 500 metres,NA
+44627,Michael Florian Hadschieff,M,20,185,75,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 1,000 metres",NA
+44627,Michael Florian Hadschieff,M,20,185,75,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+44627,Michael Florian Hadschieff,M,20,185,75,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+44627,Michael Florian Hadschieff,M,20,185,75,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+44627,Michael Florian Hadschieff,M,24,185,75,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,Speed Skating Men's 500 metres,NA
+44627,Michael Florian Hadschieff,M,24,185,75,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Men's 1,000 metres",NA
+44627,Michael Florian Hadschieff,M,24,185,75,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Men's 1,500 metres",Bronze
+44627,Michael Florian Hadschieff,M,24,185,75,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+44627,Michael Florian Hadschieff,M,24,185,75,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Men's 10,000 metres",Silver
+44627,Michael Florian Hadschieff,M,28,185,75,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Men's 1,000 metres",NA
+44627,Michael Florian Hadschieff,M,28,185,75,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+44627,Michael Florian Hadschieff,M,28,185,75,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+44627,Michael Florian Hadschieff,M,28,185,75,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+44627,Michael Florian Hadschieff,M,30,185,75,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+44627,Michael Florian Hadschieff,M,30,185,75,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+44627,Michael Florian Hadschieff,M,30,185,75,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+44800,Gerhard Haidacher,M,28,186,87,Austria-1,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,Gold
+44800,Gerhard Haidacher,M,30,186,87,Austria-1,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+44947,Veronika Halder,F,25,165,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Women's Singles,NA
+44947,Veronika Halder,F,29,165,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Women's Singles,NA
+45337,Alessandro Hmmerle,M,20,190,82,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Boardercross,NA
+45549,Peter Handschmann,M,22,178,64,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Figure Skating,Figure Skating Mixed Ice Dancing,NA
+45550,"Susanne ""Susi"" Handschmann",F,20,160,47,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Figure Skating,Figure Skating Mixed Ice Dancing,NA
+45888,Dieter Happ,M,27,190,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Men's Giant Slalom,NA
+45933,Kurt Harand,M,26,185,90,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+45933,Kurt Harand,M,30,185,90,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+46646,Max Hauke,M,21,181,74,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's Sprint,NA
+46646,Max Hauke,M,21,181,74,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+46646,Max Hauke,M,21,181,74,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's Team Sprint,NA
+46680,Lisa Theresa Hauser,F,20,174,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Women's 7.5 kilometres Sprint,NA
+46680,Lisa Theresa Hauser,F,20,174,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay,NA
+46680,Lisa Theresa Hauser,F,20,174,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Women's 10 kilometres Pursuit,NA
+46680,Lisa Theresa Hauser,F,20,174,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Women's 15 kilometres,NA
+46822,Michael Haybck,M,22,182,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+46822,Michael Haybck,M,22,182,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+46822,Michael Haybck,M,22,182,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+47327,Karl Heinzle,M,33,NA,NA,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+47616,Christina Hengster,F,28,177,76,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Women's Two,NA
+47852,Reinfried Herbst,M,27,182,84,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Slalom,Silver
+47852,Reinfried Herbst,M,31,182,84,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+47852,Reinfried Herbst,M,35,182,84,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+47858,Raphael Herburger,M,25,178,77,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+47884,Selina Heregger,F,24,169,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+47884,Selina Heregger,F,24,169,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+47884,Selina Heregger,F,24,169,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Combined,NA
+48314,Sebastian Heufler,M,22,192,97,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Men's Four,NA
+48817,Marcel Hirscher,M,20,173,73,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+48817,Marcel Hirscher,M,20,173,73,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+48817,Marcel Hirscher,M,24,173,73,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+48817,Marcel Hirscher,M,24,173,73,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Slalom,Silver
+49130,Christian Hoffmann,M,23,170,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,Bronze
+49130,Christian Hoffmann,M,23,170,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+49130,Christian Hoffmann,M,27,170,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,Gold
+49130,Christian Hoffmann,M,27,170,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+49180,Helmut Hflehner,M,24,180,78,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+49180,Helmut Hflehner,M,32,180,78,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+49212,Bruno Hofsttter,M,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+49212,Bruno Hofsttter,M,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 20 kilometres,NA
+49212,Bruno Hofsttter,M,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+49212,Bruno Hofsttter,M,28,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 20 kilometres,NA
+49212,Bruno Hofsttter,M,28,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+49249,Herbert Hohenberger,M,25,182,88,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+49249,Herbert Hohenberger,M,28,182,88,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+49250,Martin Hohenberger,M,21,186,93,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+49250,Martin Hohenberger,M,25,186,93,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+49422,Martin Hllwarth,M,17,182,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",Silver
+49422,Martin Hllwarth,M,17,182,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",Silver
+49422,Martin Hllwarth,M,17,182,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+49422,Martin Hllwarth,M,23,182,65,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+49422,Martin Hllwarth,M,23,182,65,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+49422,Martin Hllwarth,M,27,182,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+49422,Martin Hllwarth,M,27,182,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+49422,Martin Hllwarth,M,27,182,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+49638,Chiara Hlzl,F,16,152,43,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Women's Normal Hill, Individual",NA
+49641,Ulrike Hlzl,F,23,154,58,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Women's Halfpipe,NA
+49937,Walter Hrl,M,20,193,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+49937,Walter Hrl,M,20,193,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+49961,"Rudolf ""Rudi"" Horn",M,26,NA,NA,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+49961,"Rudolf ""Rudi"" Horn",M,26,NA,NA,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 20 kilometres,NA
+49961,"Rudolf ""Rudi"" Horn",M,26,NA,NA,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+49961,"Rudolf ""Rudi"" Horn",M,29,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+49961,"Rudolf ""Rudi"" Horn",M,29,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 20 kilometres,NA
+49961,"Rudolf ""Rudi"" Horn",M,29,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+49987,Stefan Horngacher,M,24,184,68,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+49987,Stefan Horngacher,M,24,184,68,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+49987,Stefan Horngacher,M,24,184,68,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+49987,Stefan Horngacher,M,28,184,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+49987,Stefan Horngacher,M,28,184,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+49987,Stefan Horngacher,M,28,184,68,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+49987,Stefan Horngacher,M,32,184,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+49987,Stefan Horngacher,M,32,184,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+49987,Stefan Horngacher,M,32,184,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+50161,Nicole Hosp,F,22,174,70,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+50161,Nicole Hosp,F,22,174,70,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Slalom,Silver
+50161,Nicole Hosp,F,22,174,70,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Combined,NA
+50161,Nicole Hosp,F,30,174,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+50161,Nicole Hosp,F,30,174,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Super G,Bronze
+50161,Nicole Hosp,F,30,174,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Combined,Silver
+50790,Sabina Hudribusch,F,31,160,52,Austria,AUT,1998 Winter,1998,Winter,Nagano,Freestyle Skiing,Freestyle Skiing Women's Aerials,NA
+51015,Thomas Hundertpfund,M,24,190,95,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+51303,Karin Huttary,F,32,164,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Women's Ski Cross,NA
+51307,Cornelia Htter,F,21,171,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+51320,"Bernard ""Bernie"" Hutz",M,22,175,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+51320,"Bernard ""Bernie"" Hutz",M,26,175,82,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+51527,Florian Iberer,M,31,185,95,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+51528,Matthias Iberer,M,28,188,100,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+52165,"Anton ""Toni"" Innauer",M,21,173,61,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",Gold
+52165,"Anton ""Toni"" Innauer",M,21,173,61,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+52168,Katharina Innerhofer,F,23,166,55,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Women's 7.5 kilometres Sprint,NA
+52168,Katharina Innerhofer,F,23,166,55,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay,NA
+52168,Katharina Innerhofer,F,23,166,55,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Women's 15 kilometres,NA
+52335,Daniela Iraschko-Stolz,F,30,164,52,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Women's Normal Hill, Individual",Silver
+53312,Werner Jger,M,24,182,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+53312,Werner Jger,M,24,182,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+53312,Werner Jger,M,24,182,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+54037,Heidi Jaufenthaler,F,20,175,59,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Women's Giant Slalom,NA
+56383,Peter Juric,M,25,190,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+56383,Peter Juric,M,25,190,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+56383,Peter Juric,M,25,190,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+56971,"Dieter Kalt, Jr.",M,19,175,83,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+56971,"Dieter Kalt, Jr.",M,23,175,83,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+56971,"Dieter Kalt, Jr.",M,27,175,83,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+56981,Stefan Kaltschtz,M,24,178,75,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+57585,Benjamin Martin Karl,M,24,186,90,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Parallel Giant Slalom,Silver
+57585,Benjamin Martin Karl,M,28,186,90,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+57585,Benjamin Martin Karl,M,28,186,90,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Slalom,Bronze
+57893,Peter Kasper,M,27,183,88,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+57930,Miriam-Stefanie Kastlunger,F,20,169,67,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Women's Singles,NA
+57930,Miriam-Stefanie Kastlunger,F,20,169,67,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed Team Relay,NA
+58883,Werner Kerth,M,21,175,84,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+58883,Werner Kerth,M,27,175,84,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+59590,Severin Kiefer,M,23,182,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Figure Skating,Figure Skating Mixed Pairs,NA
+59620,Peter Kienast,M,34,NA,NA,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Two,NA
+59620,Peter Kienast,M,34,NA,NA,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+59620,Peter Kienast,M,38,NA,NA,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Two,NA
+59620,Peter Kienast,M,38,NA,NA,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+60454,Wolfgang Kindl,M,21,166,78,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Men's Singles,NA
+60454,Wolfgang Kindl,M,25,166,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Men's Singles,NA
+60454,Wolfgang Kindl,M,25,166,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed Team Relay,NA
+60667,Maria Kirchgasser-Pichler,F,31,164,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+60668,Michaela Kirchgasser,F,20,169,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+60668,Michaela Kirchgasser,F,20,169,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+60668,Michaela Kirchgasser,F,20,169,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Combined,NA
+60668,Michaela Kirchgasser,F,24,169,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+60668,Michaela Kirchgasser,F,24,169,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+60668,Michaela Kirchgasser,F,24,169,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Combined,NA
+60668,Michaela Kirchgasser,F,28,169,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+60668,Michaela Kirchgasser,F,28,169,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+60668,Michaela Kirchgasser,F,28,169,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Combined,NA
+60674,"Elisabeth ""Lisi"" Kirchler (-Riml)",F,20,168,65,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+60674,"Elisabeth ""Lisi"" Kirchler (-Riml)",F,20,168,65,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+60674,"Elisabeth ""Lisi"" Kirchler (-Riml)",F,24,168,65,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+60674,"Elisabeth ""Lisi"" Kirchler (-Riml)",F,24,168,65,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Super G,NA
+61035,Franz Klammer,M,30,183,79,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+61045,Lukas Klapfer,M,28,182,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+61045,Lukas Klapfer,M,28,182,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",NA
+61045,Lukas Klapfer,M,28,182,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,Nordic Combined Men's Team,Bronze
+61155,Markus Kleinheinz,M,21,180,86,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Men's Singles,NA
+61155,Markus Kleinheinz,M,25,180,86,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Men's Singles,NA
+61155,Markus Kleinheinz,M,29,180,86,Austria,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Men's Singles,NA
+61161,Viola Kleiser,F,23,178,72,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Women's Two,NA
+61447,Hans Knau,M,23,179,86,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Super G,NA
+61447,Hans Knau,M,23,179,86,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Combined,NA
+61447,Hans Knau,M,26,179,86,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Super G,Silver
+61447,Hans Knau,M,26,179,86,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+61447,Hans Knau,M,31,179,86,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+61695,Margot Kober (-Fohringer),F,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 5 kilometres,NA
+61695,Margot Kober (-Fohringer),F,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+61695,Margot Kober (-Fohringer),F,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 20 kilometres,NA
+61778,Martin Koch,M,20,186,67,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+61778,Martin Koch,M,20,186,67,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+61778,Martin Koch,M,24,186,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+61778,Martin Koch,M,24,186,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+61778,Martin Koch,M,24,186,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+61784,Thomas Koch,M,30,173,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+61815,Brigitte Kck,F,27,182,71,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Women's Giant Slalom,Bronze
+61918,Andreas Kofler,M,21,180,63,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+61918,Andreas Kofler,M,21,180,63,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",Silver
+61918,Andreas Kofler,M,21,180,63,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+61918,Andreas Kofler,M,25,180,63,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+61918,Andreas Kofler,M,25,180,63,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+61918,Andreas Kofler,M,25,180,63,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+61933,Armin Kogler,M,20,178,73,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+61933,Armin Kogler,M,20,178,73,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+61933,Armin Kogler,M,24,178,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+61933,Armin Kogler,M,24,178,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+61971,Gerhard Khler,M,27,193,94,Austria-2,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Two,NA
+62219,Josef Koll,M,24,178,68,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+62228,Patrick Koller,M,26,192,98,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,NA
+62228,Patrick Koller,M,30,192,98,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,NA
+62352,Gert Kompajn,M,27,180,89,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+62462,Rudolf Knig,M,26,183,80,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+62462,Rudolf Knig,M,30,183,80,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+62756,Gnter Koren,M,25,185,75,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+62757,Helmut Koren,M,25,173,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+63674,Adrian Krainer,M,21,186,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Slopestyle,NA
+63675,Martin Krainz,M,26,186,83,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+63785,Dieter Krassnig,M,24,174,80,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Men's Giant Slalom,NA
+63785,Dieter Krassnig,M,28,174,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+63785,Dieter Krassnig,M,32,174,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Boardercross,NA
+63942,David Kreiner,M,28,172,60,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+63942,David Kreiner,M,28,172,60,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,Nordic Combined Men's Team,Gold
+63946,Marion Kreiner,F,28,170,61,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Women's Parallel Giant Slalom,Bronze
+63946,Marion Kreiner,F,32,170,61,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+63946,Marion Kreiner,F,32,170,61,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Slalom,NA
+63947,Stefan Kreiner,M,18,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Team,Bronze
+63947,Stefan Kreiner,M,18,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Individual,NA
+64055,Doresia Krings,F,28,160,55,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+64055,Doresia Krings,F,28,160,55,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Women's Boardercross,NA
+64055,Doresia Krings,F,32,160,55,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Women's Boardercross,NA
+64056,Heidi Krings,F,22,168,50,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+64069,Gnter Krispel,M,32,NA,NA,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+64132,Claudia Kristofics-Binder,F,18,170,50,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Figure Skating,Figure Skating Women's Singles,NA
+64238,Klaus Krll,M,25,186,95,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+64238,Klaus Krll,M,29,186,95,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+64238,Klaus Krll,M,33,186,95,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+64250,Wolfgang Kromp,M,23,175,83,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+64250,Wolfgang Kromp,M,27,175,83,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+64250,Wolfgang Kromp,M,31,175,83,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+64253,Petra Kronberger,F,18,170,62,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+64253,Petra Kronberger,F,18,170,62,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+64253,Petra Kronberger,F,18,170,62,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Combined,NA
+64253,Petra Kronberger,F,22,170,62,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+64253,Petra Kronberger,F,22,170,62,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Super G,NA
+64253,Petra Kronberger,F,22,170,62,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+64253,Petra Kronberger,F,22,170,62,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Slalom,Gold
+64253,Petra Kronberger,F,22,170,62,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Combined,Gold
+64254,Anni Kronbichler,F,20,176,70,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+64254,Anni Kronbichler,F,20,176,70,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+64376,"Normand ""Norm"" Krumpschmid",M,28,180,85,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+65305,Heinz Ernst Kuttin,M,17,193,78,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+65305,Heinz Ernst Kuttin,M,17,193,78,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+65305,Heinz Ernst Kuttin,M,17,193,78,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+65305,Heinz Ernst Kuttin,M,21,193,78,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+65305,Heinz Ernst Kuttin,M,21,193,78,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",Bronze
+65305,Heinz Ernst Kuttin,M,21,193,78,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+65305,Heinz Ernst Kuttin,M,23,193,78,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+65305,Heinz Ernst Kuttin,M,23,193,78,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+65305,Heinz Ernst Kuttin,M,23,193,78,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+65306,Georg Kuttner,M,29,192,98,Austria-2,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+65795,Marco Ladner,M,15,175,65,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Halfpipe,NA
+65800,Ida Ladsttter,F,23,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+66048,Andr Lakos,M,22,201,108,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+66048,Andr Lakos,M,34,201,108,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+66246,Michael Lampert,M,25,180,87,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+66305,Dominik Landertinger,M,22,188,75,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+66305,Dominik Landertinger,M,22,188,75,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+66305,Dominik Landertinger,M,22,188,75,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+66305,Dominik Landertinger,M,22,188,75,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 20 kilometres,NA
+66305,Dominik Landertinger,M,22,188,75,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Silver
+66305,Dominik Landertinger,M,26,188,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 10 kilometres Sprint,Silver
+66305,Dominik Landertinger,M,26,188,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+66305,Dominik Landertinger,M,26,188,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+66305,Dominik Landertinger,M,26,188,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 20 kilometres,NA
+66305,Dominik Landertinger,M,26,188,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Bronze
+66433,Mathias Lange,M,28,178,82,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+66584,Gnther Lanzinger,M,22,187,90,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+66584,Gnther Lanzinger,M,30,187,90,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+67041,Manuel Latusa,M,30,182,89,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+67179,Julia Lautowa,F,16,164,51,Austria,AUT,1998 Winter,1998,Winter,Nagano,Figure Skating,Figure Skating Women's Singles,NA
+67245,Joseph Dominic Giles Lavoie,M,30,188,95,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+67245,Joseph Dominic Giles Lavoie,M,34,188,95,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+67648,Brian Lebler,M,25,192,100,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+67649,"Edward ""Ed"" Lebler",M,25,178,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+67649,"Edward ""Ed"" Lebler",M,29,178,82,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+67687,Franz Lechleitner,M,20,NA,NA,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Mixed (Men)'s Doubles,NA
+67687,Franz Lechleitner,M,24,NA,NA,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Mixed (Men)'s Doubles,NA
+68521,Peter Leismller,M,29,184,107,Austria-1,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+68543,Egon Leitner,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+68543,Egon Leitner,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 20 kilometres,NA
+68543,Egon Leitner,M,26,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+68543,Egon Leitner,M,26,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 20 kilometres,NA
+68543,Egon Leitner,M,26,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+68646,Gnther Lemmerer,M,27,191,83,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Mixed (Men)'s Doubles,NA
+68646,Gnther Lemmerer,M,31,191,83,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Mixed (Men)'s Doubles,NA
+68704,Anton Lengauer-Stockner,M,26,179,78,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+69935,Andrea Limbacher,F,20,163,59,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Women's Ski Cross,NA
+69935,Andrea Limbacher,F,24,163,59,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Women's Ski Cross,NA
+70133,Engelbert Linder,M,31,190,90,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+70133,Engelbert Linder,M,35,190,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+70205,"Johann ""Hans"" Lindner",M,24,189,110,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Two,NA
+70205,"Johann ""Hans"" Lindner",M,24,189,110,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+70312,Andreas Linger,M,20,184,85,Austria-2,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Mixed (Men)'s Doubles,NA
+70312,Andreas Linger,M,24,184,85,Austria-1,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Mixed (Men)'s Doubles,Gold
+70312,Andreas Linger,M,28,184,85,Austria-1,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Mixed (Men)'s Doubles,Gold
+70312,Andreas Linger,M,32,184,85,Austria-1,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed (Men)'s Doubles,Silver
+70312,Andreas Linger,M,32,184,85,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed Team Relay,NA
+70313,Wolfgang Linger,M,19,177,75,Austria-2,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Mixed (Men)'s Doubles,NA
+70313,Wolfgang Linger,M,23,177,75,Austria-1,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Mixed (Men)'s Doubles,Gold
+70313,Wolfgang Linger,M,27,177,75,Austria-1,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Mixed (Men)'s Doubles,Gold
+70313,Wolfgang Linger,M,31,177,75,Austria-1,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed (Men)'s Doubles,Silver
+70313,Wolfgang Linger,M,31,177,75,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed Team Relay,NA
+70892,Jrgen Loacker,M,31,176,90,Austria-2,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Two,NA
+70892,Jrgen Loacker,M,31,176,90,Austria,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Four,NA
+70892,Jrgen Loacker,M,35,176,90,Austria-2,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Two,NA
+71100,Wolfgang Loitzl,M,22,180,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+71100,Wolfgang Loitzl,M,30,180,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+71100,Wolfgang Loitzl,M,30,180,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+71100,Wolfgang Loitzl,M,30,180,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+72177,Robert Lukas,M,23,177,84,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+72177,Robert Lukas,M,35,177,84,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+73020,Robert Mack,M,28,180,90,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+73197,Gnther Mader,M,23,177,77,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+73197,Gnther Mader,M,23,177,77,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Super G,NA
+73197,Gnther Mader,M,23,177,77,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+73197,Gnther Mader,M,23,177,77,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+73197,Gnther Mader,M,23,177,77,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Combined,NA
+73197,Gnther Mader,M,27,177,77,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Downhill,Bronze
+73197,Gnther Mader,M,27,177,77,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Super G,NA
+73197,Gnther Mader,M,27,177,77,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+73197,Gnther Mader,M,27,177,77,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Combined,NA
+73197,Gnther Mader,M,29,177,77,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+73197,Gnther Mader,M,29,177,77,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Super G,NA
+73197,Gnther Mader,M,29,177,77,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+73197,Gnther Mader,M,29,177,77,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+73197,Gnther Mader,M,29,177,77,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Combined,NA
+73197,Gnther Mader,M,33,177,77,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Combined,NA
+73201,Regina Mader-Sterz,F,24,168,61,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+73201,Regina Mader-Sterz,F,28,168,61,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Super G,NA
+73636,Alexander Maier,M,27,185,85,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+73636,Alexander Maier,M,31,185,85,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+73638,Benjamin Maier,M,19,182,93,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Men's Two,NA
+73638,Benjamin Maier,M,19,182,93,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Men's Four,NA
+73643,Hermann Maier,M,25,180,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+73643,Hermann Maier,M,25,180,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Super G,Gold
+73643,Hermann Maier,M,25,180,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Gold
+73643,Hermann Maier,M,25,180,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Combined,NA
+73643,Hermann Maier,M,33,180,90,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+73643,Hermann Maier,M,33,180,90,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Super G,Silver
+73643,Hermann Maier,M,33,180,90,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Bronze
+73649,Raphael Maier,M,21,173,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Skeleton,Skeleton Men's Skeleton,NA
+73653,Ulrike Maier,F,20,163,56,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+73653,Ulrike Maier,F,20,163,56,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+73653,Ulrike Maier,F,20,163,56,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Combined,NA
+73653,Ulrike Maier,F,24,163,56,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Super G,NA
+73653,Ulrike Maier,F,24,163,56,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+73653,Ulrike Maier,F,24,163,56,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Combined,NA
+73655,Monika Maierhofer,F,25,165,67,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+73655,Monika Maierhofer,F,27,165,67,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+74662,Robert Manzenreiter,M,21,178,73,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Mixed (Men)'s Doubles,NA
+74662,Robert Manzenreiter,M,25,178,73,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Men's Singles,NA
+74663,Sonja Manzenreiter,F,22,163,65,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Women's Singles,NA
+74663,Sonja Manzenreiter,F,26,163,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Women's Singles,NA
+74663,Sonja Manzenreiter,F,30,163,65,Austria,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Women's Singles,NA
+74729,Margarita Marbler (Olejnikova-),F,26,157,50,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Freestyle Skiing,Freestyle Skiing Women's Moguls,NA
+74729,Margarita Marbler (Olejnikova-),F,30,157,50,Austria,AUT,2006 Winter,2006,Winter,Torino,Freestyle Skiing,Freestyle Skiing Women's Moguls,NA
+74729,Margarita Marbler (Olejnikova-),F,34,157,50,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Women's Moguls,NA
+74931,Alexander Marent,M,22,168,68,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+74931,Alexander Marent,M,22,168,68,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+74931,Alexander Marent,M,22,168,68,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+74931,Alexander Marent,M,22,168,68,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+74931,Alexander Marent,M,22,168,68,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+74931,Alexander Marent,M,32,168,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+74931,Alexander Marent,M,32,168,68,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+74983,Rainer Margreiter,M,26,191,94,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Men's Singles,NA
+74983,Rainer Margreiter,M,30,191,94,Austria,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Men's Singles,NA
+75145,Christian Mark,M,21,NA,NA,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Two,NA
+75145,Christian Mark,M,21,NA,NA,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+75145,Christian Mark,M,25,NA,NA,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Two,NA
+75145,Christian Mark,M,25,NA,NA,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+76419,Lukas Mathies,M,22,171,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+76419,Lukas Mathies,M,22,171,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Slalom,NA
+76633,Andreas Matt,M,27,192,100,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,Silver
+76633,Andreas Matt,M,31,192,100,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,NA
+76635,Mario Matt,M,26,190,90,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+76635,Mario Matt,M,26,190,90,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Combined,NA
+76635,Mario Matt,M,34,190,90,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Slalom,Gold
+76974,Christian Mayer,M,20,180,97,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+76974,Christian Mayer,M,22,180,97,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Bronze
+76974,Christian Mayer,M,22,180,97,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Combined,NA
+76974,Christian Mayer,M,26,180,97,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+76974,Christian Mayer,M,26,180,97,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+76974,Christian Mayer,M,26,180,97,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Combined,Bronze
+76982,Helmut Mayer,M,21,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Super G,Silver
+76982,Helmut Mayer,M,21,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+76986,Jrgen Robert Mayer,M,33,183,108,Austria-1,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Two,NA
+76986,Jrgen Robert Mayer,M,33,183,108,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Four,NA
+76990,Marc Mayer,M,23,186,76,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's Sprint,NA
+76990,Marc Mayer,M,23,186,76,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+76990,Marc Mayer,M,23,186,76,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 10/10 kilometres Pursuit,NA
+76991,Matthias Mayer,M,23,179,87,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Downhill,Gold
+76991,Matthias Mayer,M,23,179,87,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Super G,NA
+76991,Matthias Mayer,M,23,179,87,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+76991,Matthias Mayer,M,23,179,87,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Combined,NA
+77006,Veronika Mayerhofer,F,21,176,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+77006,Veronika Mayerhofer,F,21,176,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 4 x 5 kilometres Relay,NA
+77057,Otto Mayregger,M,25,183,83,Austria,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Men's Singles,NA
+78307,Alexandra Meissnitzer,F,20,165,62,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+78307,Alexandra Meissnitzer,F,24,165,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+78307,Alexandra Meissnitzer,F,24,165,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Super G,Bronze
+78307,Alexandra Meissnitzer,F,24,165,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Giant Slalom,Silver
+78307,Alexandra Meissnitzer,F,28,165,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Super G,NA
+78307,Alexandra Meissnitzer,F,28,165,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+78307,Alexandra Meissnitzer,F,32,165,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+78307,Alexandra Meissnitzer,F,32,165,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Super G,Bronze
+79012,Ina Meschik,F,19,160,57,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+79012,Ina Meschik,F,23,160,57,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+79012,Ina Meschik,F,23,160,57,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Slalom,NA
+79041,Daniel Mesotitsch,M,25,180,78,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 20 kilometres,NA
+79041,Daniel Mesotitsch,M,29,180,78,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 20 kilometres,NA
+79041,Daniel Mesotitsch,M,29,180,78,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+79041,Daniel Mesotitsch,M,33,180,78,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+79041,Daniel Mesotitsch,M,33,180,78,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+79041,Daniel Mesotitsch,M,33,180,78,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+79041,Daniel Mesotitsch,M,33,180,78,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 20 kilometres,NA
+79041,Daniel Mesotitsch,M,33,180,78,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Silver
+79041,Daniel Mesotitsch,M,37,180,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+79041,Daniel Mesotitsch,M,37,180,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay,NA
+79041,Daniel Mesotitsch,M,37,180,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+79041,Daniel Mesotitsch,M,37,180,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 20 kilometres,NA
+79041,Daniel Mesotitsch,M,37,180,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Bronze
+79964,"Johann ""Hans"" Millonig",M,27,179,72,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+80205,Giuseppe Mion,M,24,180,85,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+80517,Christiane Mitterwallner,F,23,164,NA,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+81174,Susanne Moll,F,26,169,58,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Boardercross,NA
+82059,Thomas Morgenstern,M,19,184,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+82059,Thomas Morgenstern,M,19,184,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",Gold
+82059,Thomas Morgenstern,M,19,184,67,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+82059,Thomas Morgenstern,M,23,184,67,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+82059,Thomas Morgenstern,M,23,184,67,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+82059,Thomas Morgenstern,M,23,184,67,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+82059,Thomas Morgenstern,M,27,184,67,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+82059,Thomas Morgenstern,M,27,184,67,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+82059,Thomas Morgenstern,M,27,184,67,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+82397,Christian Moser,M,21,181,67,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+82397,Christian Moser,M,21,181,67,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+82397,Christian Moser,M,21,181,67,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+82412,Annemarie Moser-Prll,F,26,170,59,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Downhill,Gold
+82412,Annemarie Moser-Prll,F,26,170,59,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+82412,Annemarie Moser-Prll,F,26,170,59,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+82922,Manfred Mhr,M,20,175,80,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+82922,Manfred Mhr,M,26,175,80,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+82924,Josef Muigg,M,27,NA,NA,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+83123,Michael Mller,M,21,187,102,Austria-2,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+83123,Michael Mller,M,25,187,102,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Bobsleigh,Bobsleigh Men's Four,NA
+84610,"Richard ""Rick"" Nasheim",M,31,180,85,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+84610,"Richard ""Rick"" Nasheim",M,35,180,85,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,21,167,65,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,Speed Skating Women's 500 metres,NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,21,167,65,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Women's 1,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,21,167,65,Austria,AUT,1988 Winter,1988,Winter,Calgary,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,25,167,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Women's 1,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,25,167,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,25,167,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Women's 3,000 metres",Bronze
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,25,167,65,Austria,AUT,1992 Winter,1992,Winter,Albertville,Speed Skating,"Speed Skating Women's 5,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,27,167,65,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 1,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,27,167,65,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 1,500 metres",Gold
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,27,167,65,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 3,000 metres",Silver
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,27,167,65,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Speed Skating,"Speed Skating Women's 5,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,31,167,65,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,Speed Skating Women's 500 metres,NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,31,167,65,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,31,167,65,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,31,167,65,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Women's 5,000 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,35,167,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Speed Skating,Speed Skating Women's 500 metres,NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,35,167,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+85274,Emese Nemeth-Hunyady (-Jrvinen),F,35,167,65,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+85308,Carsten Nentwig,M,25,189,90,Austria-2,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,NA
+85308,Carsten Nentwig,M,27,189,90,Austria-2,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+85488,Angelika Neuner,F,22,172,64,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Women's Singles,Silver
+85488,Angelika Neuner,F,24,172,64,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Women's Singles,NA
+85488,Angelika Neuner,F,28,172,64,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Women's Singles,Bronze
+85488,Angelika Neuner,F,32,172,64,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Women's Singles,NA
+85489,Doris Neuner,F,20,174,61,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Women's Singles,Gold
+85489,Doris Neuner,F,22,174,61,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Women's Singles,NA
+85494,Reinhard Neuner,M,29,183,81,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+85494,Reinhard Neuner,M,29,183,81,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+85494,Reinhard Neuner,M,33,183,81,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's Sprint,NA
+85496,Hubert Neuper,M,19,176,68,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+85496,Hubert Neuper,M,19,176,68,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",Silver
+86106,"Rudolf ""Rudi"" Nierlich",M,21,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+86106,"Rudolf ""Rudi"" Nierlich",M,21,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+86715,Andreas Ndl,M,26,187,90,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+87738,Kurt Oberhller,M,30,186,85,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Two,NA
+87738,Kurt Oberhller,M,30,186,85,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+87744,Daniel Oberkofler,M,25,183,74,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+87751,Brigitte Obermoser,F,21,171,75,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Combined,NA
+87751,Brigitte Obermoser,F,25,171,75,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+87751,Brigitte Obermoser,F,25,171,75,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+88110,Katrin Ofner,F,19,170,63,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Women's Ski Cross,NA
+88110,Katrin Ofner,F,23,170,63,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Women's Ski Cross,NA
+88111,Klaus Ofner,M,19,184,78,Austria,AUT,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Individual,NA
+88111,Klaus Ofner,M,23,184,78,Austria,AUT,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Team,Bronze
+88111,Klaus Ofner,M,23,184,78,Austria,AUT,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Individual,NA
+89443,Christian Orlainsky,M,17,175,75,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+89443,Christian Orlainsky,M,17,175,75,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+89619,Patrick Ortlieb,M,24,189,92,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Downhill,Gold
+89619,Patrick Ortlieb,M,24,189,92,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Super G,NA
+89619,Patrick Ortlieb,M,26,189,92,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+92224,Franz Paulweber,M,27,172,70,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Two,NA
+92224,Franz Paulweber,M,27,172,70,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+92684,Nicola Pederzolli (-Rottmann),F,23,162,54,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Women's Halfpipe,NA
+92684,Nicola Pederzolli (-Rottmann),F,27,162,54,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Women's Halfpipe,NA
+93085,Markus Penz,M,30,180,72,Austria,AUT,2006 Winter,2006,Winter,Torino,Skeleton,Skeleton Men's Skeleton,NA
+93086,Peter Penz,M,29,187,95,Austria-2,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Mixed (Men)'s Doubles,NA
+93497,Wolfgang Perner,M,26,184,75,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+93497,Wolfgang Perner,M,26,184,75,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+93497,Wolfgang Perner,M,30,184,75,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+93497,Wolfgang Perner,M,30,184,75,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 20 kilometres,NA
+93497,Wolfgang Perner,M,30,184,75,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+93497,Wolfgang Perner,M,34,184,75,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 10 kilometres Sprint,Bronze
+93497,Wolfgang Perner,M,34,184,75,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+93497,Wolfgang Perner,M,34,184,75,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 20 kilometres,NA
+93497,Wolfgang Perner,M,34,184,75,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+93497,Wolfgang Perner,M,38,184,75,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+93497,Wolfgang Perner,M,38,184,75,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+93497,Wolfgang Perner,M,38,184,75,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 20 kilometres,NA
+93675,Christian Perthaler,M,29,183,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+93675,Christian Perthaler,M,33,183,90,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+94059,Helmut Petrik,M,22,187,91,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+94328,Gerhard Pfaffenbichler,M,26,190,88,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+94346,Viktor Pfeifer,M,18,182,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Figure Skating,Figure Skating Men's Singles,NA
+94346,Viktor Pfeifer,M,22,182,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Figure Skating,Figure Skating Men's Singles,NA
+94346,Viktor Pfeifer,M,26,182,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Figure Skating,Figure Skating Men's Singles,NA
+94360,Daniel Pfister,M,19,183,92,Austria,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Men's Singles,NA
+94360,Daniel Pfister,M,23,183,92,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Men's Singles,NA
+94360,Daniel Pfister,M,27,183,92,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Men's Singles,NA
+94361,Manuel Pfister,M,21,174,86,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Men's Singles,NA
+94378,Martin Pfurtscheller,M,25,175,65,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+94378,Martin Pfurtscheller,M,25,175,65,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 20 kilometres,NA
+94378,Martin Pfurtscheller,M,25,175,65,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+94891,Patrick Pilloni,M,27,182,86,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+95033,"Friedrich ""Fritz"" Pinter",M,27,186,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 20 kilometres,NA
+95033,"Friedrich ""Fritz"" Pinter",M,27,186,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+95033,"Friedrich ""Fritz"" Pinter",M,35,186,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Mixed 2 x 6 kilometres and 2 x 7.5 kilometres Relay,NA
+95036,Jrgen Pinter,M,26,178,74,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+95036,Jrgen Pinter,M,26,178,74,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's Team Sprint,NA
+95412,Birgit Platzer,F,21,170,63,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Women's Singles,NA
+95413,Martin Platzer,M,20,187,88,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+95413,Martin Platzer,M,24,187,88,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+95505,"Maximilian ""Max"" Pltzeneder",M,26,173,75,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Men's Halfpipe,NA
+95571,Herbert Pck,M,26,179,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+95571,Herbert Pck,M,30,179,76,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+95573,Thomas Pck,M,20,184,94,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+95573,Thomas Pck,M,32,184,94,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+96739,Manfred Pranger,M,24,184,86,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+96739,Manfred Pranger,M,32,184,86,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+97110,Markus Prock,M,19,184,89,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Men's Singles,NA
+97110,Markus Prock,M,23,184,89,Austria,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Men's Singles,NA
+97110,Markus Prock,M,27,184,89,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Men's Singles,Silver
+97110,Markus Prock,M,29,184,89,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Men's Singles,Silver
+97110,Markus Prock,M,33,184,89,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Men's Singles,NA
+97110,Markus Prock,M,37,184,89,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Men's Singles,Bronze
+97180,Cornelia Prll,F,19,173,59,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+97184,Andreas Prommegger,M,25,180,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+97184,Andreas Prommegger,M,29,180,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+97184,Andreas Prommegger,M,33,180,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+97184,Andreas Prommegger,M,33,180,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Slalom,NA
+97591,Bernhard Purkrabek,M,25,182,72,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+97614,Michael Puschacher,M,25,188,84,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+97629,Andreas Pusnik (Puschnig-),M,21,178,80,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+97629,Andreas Pusnik (Puschnig-),M,25,178,80,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+97630,Gerhard Pusnik (Puschnig-),M,21,175,84,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+97630,Gerhard Pusnik (Puschnig-),M,27,175,84,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+97630,Gerhard Pusnik (Puschnig-),M,31,175,84,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+98276,Michael Raffl,M,25,187,93,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+98277,Peter Raffl,M,24,183,83,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+98277,Peter Raffl,M,28,183,83,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+98278,Thomas Raffl,M,27,193,103,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+98401,Benjamin Raich,M,23,182,83,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+98401,Benjamin Raich,M,23,182,83,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Slalom,Bronze
+98401,Benjamin Raich,M,23,182,83,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Combined,Bronze
+98401,Benjamin Raich,M,27,182,83,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Super G,NA
+98401,Benjamin Raich,M,27,182,83,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Gold
+98401,Benjamin Raich,M,27,182,83,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Slalom,Gold
+98401,Benjamin Raich,M,27,182,83,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Combined,NA
+98401,Benjamin Raich,M,31,182,83,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Super G,NA
+98401,Benjamin Raich,M,31,182,83,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+98401,Benjamin Raich,M,31,182,83,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+98401,Benjamin Raich,M,31,182,83,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Combined,NA
+98401,Benjamin Raich,M,35,182,83,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+98401,Benjamin Raich,M,35,182,83,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+98402,Carina Raich (-Stecher),F,22,168,56,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+98420,Gerhard Rainer,M,31,187,93,Austria-1,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Two,NA
+98420,Gerhard Rainer,M,31,187,93,Austria-2,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,NA
+98606,Maria Ramberger,F,23,166,55,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Women's Boardercross,NA
+98606,Maria Ramberger,F,27,166,55,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Boardercross,NA
+99483,Gerhard Redl,M,21,180,93,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+99483,Gerhard Redl,M,25,180,93,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+99483,Gerhard Redl,M,31,180,93,Austria-1,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+99496,Franz Rednak,M,30,174,77,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+99660,"Johannes ""Hannes"" Reichelt",M,25,184,82,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Super G,NA
+99847,Mario Reiter,M,27,176,78,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+99847,Mario Reiter,M,27,176,78,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Combined,Gold
+99852,Nina Reithmayer,F,21,171,66,Austria,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Women's Singles,NA
+99852,Nina Reithmayer,F,25,171,66,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Women's Singles,Silver
+99852,Nina Reithmayer,F,29,171,66,Austria,AUT,2014 Winter,2014,Winter,Sochi,Luge,Luge Women's Singles,NA
+100074,Erwin Resch,M,22,180,78,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+100103,Gerald Ressmann,M,23,190,100,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+100103,Gerald Ressmann,M,27,190,100,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+100103,Gerald Ressmann,M,31,190,100,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+100132,Martin Rettl,M,28,184,73,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Skeleton,Skeleton Men's Skeleton,Silver
+100132,Martin Rettl,M,32,184,73,Austria,AUT,2006 Winter,2006,Winter,Torino,Skeleton,Skeleton Men's Skeleton,NA
+100710,Georg Riedlsperger,M,24,181,69,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Team,NA
+100710,Georg Riedlsperger,M,24,181,69,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Individual,NA
+100726,Claudia Riegler,F,28,168,70,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+100726,Claudia Riegler,F,36,168,70,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+100726,Claudia Riegler,F,40,168,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+100726,Claudia Riegler,F,40,168,70,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Women's Parallel Slalom,NA
+100727,Manuela Riegler,F,27,169,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+100727,Manuela Riegler,F,31,169,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Women's Parallel Giant Slalom,NA
+100835,Christian Rijavec,M,21,172,62,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Freestyle Skiing,Freestyle Skiing Men's Aerials,NA
+100835,Christian Rijavec,M,25,172,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Freestyle Skiing,Freestyle Skiing Men's Aerials,NA
+100915,Andreas Ringhofer,M,21,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+100915,Andreas Ringhofer,M,21,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+100915,Andreas Ringhofer,M,21,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+100915,Andreas Ringhofer,M,21,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+102054,Renate Roider,F,26,167,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Women's 5 kilometres,NA
+102054,Renate Roider,F,26,167,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Women's 15 kilometres,NA
+102106,Anna Natalia Rokita,F,20,173,63,Austria,AUT,2006 Winter,2006,Winter,Torino,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+102106,Anna Natalia Rokita,F,20,173,63,Austria,AUT,2006 Winter,2006,Winter,Torino,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+102106,Anna Natalia Rokita,F,20,173,63,Austria,AUT,2006 Winter,2006,Winter,Torino,Speed Skating,"Speed Skating Women's 5,000 metres",NA
+102106,Anna Natalia Rokita,F,24,173,63,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Speed Skating,"Speed Skating Women's 1,500 metres",NA
+102106,Anna Natalia Rokita,F,24,173,63,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+102106,Anna Natalia Rokita,F,28,173,63,Austria,AUT,2014 Winter,2014,Winter,Sochi,Speed Skating,"Speed Skating Women's 3,000 metres",NA
+102908,Wolfgang Rottmann,M,24,189,81,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+102908,Wolfgang Rottmann,M,24,189,81,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 20 kilometres,NA
+102908,Wolfgang Rottmann,M,24,189,81,Austria,AUT,1998 Winter,1998,Winter,Nagano,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+102908,Wolfgang Rottmann,M,28,189,81,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+102908,Wolfgang Rottmann,M,28,189,81,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+102908,Wolfgang Rottmann,M,28,189,81,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+102908,Wolfgang Rottmann,M,32,189,81,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+102908,Wolfgang Rottmann,M,32,189,81,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+103278,Michael Rudman,M,29,181,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+104105,Regina Sackl,F,20,170,61,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+104105,Regina Sackl,F,20,170,61,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+104151,Barbara Sadleder,F,24,168,63,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+104151,Barbara Sadleder,F,24,168,63,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Super G,NA
+104154,Robin Sadler,M,32,188,82,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+104642,Andreas Salat,M,23,185,89,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+104717,Kent Salfi,M,30,177,82,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+104907,Ingrid Salvenmoser,F,30,163,55,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+104922,Rainer Salzgeber,M,24,177,80,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Super G,NA
+104922,Rainer Salzgeber,M,24,177,80,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+104922,Rainer Salzgeber,M,24,177,80,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Combined,NA
+104922,Rainer Salzgeber,M,26,177,80,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+105001,Markus Sammer,M,25,188,95,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Men's Two,NA
+105001,Markus Sammer,M,25,188,95,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Men's Four,NA
+105286,Gerhard Sandbichler,M,22,182,80,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Men's Singles,NA
+105286,Gerhard Sandbichler,M,26,182,80,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Men's Singles,NA
+105286,Gerhard Sandbichler,M,30,182,80,Austria,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Men's Singles,NA
+105286,Gerhard Sandbichler,M,30,182,80,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Mixed (Men)'s Doubles,NA
+106521,Mario Schaden,M,25,174,84,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+106521,Mario Schaden,M,29,174,84,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+106566,Angelika Schafferer,F,32,170,68,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Women's Singles,NA
+106572,Markus Schairer,M,22,177,83,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Boardercross,NA
+106572,Markus Schairer,M,26,177,83,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Boardercross,NA
+106624,Clemens Schattschneider,M,21,183,81,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Slopestyle,NA
+106673,Mario Scheiber,M,26,176,84,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+106673,Mario Scheiber,M,26,176,84,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Super G,NA
+106830,Markus Schiegl,M,18,178,73,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Mixed (Men)'s Doubles,NA
+106830,Markus Schiegl,M,22,178,73,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Mixed (Men)'s Doubles,NA
+106830,Markus Schiegl,M,26,178,73,Austria-1,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Mixed (Men)'s Doubles,NA
+106830,Markus Schiegl,M,30,178,73,Austria-2,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Mixed (Men)'s Doubles,NA
+106830,Markus Schiegl,M,34,178,73,Austria-2,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Mixed (Men)'s Doubles,NA
+106831,Tobias Schiegl,M,20,199,89,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Mixed (Men)'s Doubles,NA
+106831,Tobias Schiegl,M,24,199,89,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Mixed (Men)'s Doubles,NA
+106831,Tobias Schiegl,M,28,199,89,Austria-1,AUT,2002 Winter,2002,Winter,Salt Lake City,Luge,Luge Mixed (Men)'s Doubles,NA
+106831,Tobias Schiegl,M,32,199,89,Austria-2,AUT,2006 Winter,2006,Winter,Torino,Luge,Luge Mixed (Men)'s Doubles,NA
+106831,Tobias Schiegl,M,36,199,89,Austria-2,AUT,2010 Winter,2010,Winter,Vancouver,Luge,Luge Mixed (Men)'s Doubles,NA
+106851,Andreas Schifferer,M,23,178,92,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+106851,Andreas Schifferer,M,23,178,92,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Super G,NA
+106851,Andreas Schifferer,M,27,178,92,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Super G,Bronze
+106859,Bernadette Schild,F,24,164,55,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+106861,Marlies Schild (-Raich),F,20,172,66,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+106861,Marlies Schild (-Raich),F,24,172,66,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+106861,Marlies Schild (-Raich),F,24,172,66,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Slalom,Bronze
+106861,Marlies Schild (-Raich),F,24,172,66,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Combined,Silver
+106861,Marlies Schild (-Raich),F,28,172,66,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Slalom,Silver
+106861,Marlies Schild (-Raich),F,32,172,66,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Slalom,Silver
+106981,Gregor Schlierenzauer,M,20,182,64,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",Bronze
+106981,Gregor Schlierenzauer,M,20,182,64,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",Bronze
+106981,Gregor Schlierenzauer,M,20,182,64,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+106981,Gregor Schlierenzauer,M,24,182,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+106981,Gregor Schlierenzauer,M,24,182,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+106981,Gregor Schlierenzauer,M,24,182,64,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+107066,Nicole Schmidhofer,F,20,157,59,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Super G,NA
+107114,Markus Schmidt,M,23,178,80,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Men's Singles,Bronze
+107114,Markus Schmidt,M,23,178,80,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Mixed (Men)'s Doubles,NA
+107114,Markus Schmidt,M,25,178,80,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Men's Singles,NA
+107293,Tanja Schneider,F,27,159,52,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Super G,NA
+107424,Rainer Schnfelder,M,24,176,88,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+107424,Rainer Schnfelder,M,24,176,88,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Combined,NA
+107424,Rainer Schnfelder,M,28,176,88,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+107424,Rainer Schnfelder,M,28,176,88,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Slalom,Bronze
+107424,Rainer Schnfelder,M,28,176,88,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Combined,Bronze
+107456,Philipp Schrghofer,M,27,176,77,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+107456,Philipp Schrghofer,M,31,176,77,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+107465,Hubert Schsser,M,27,177,85,Austria-1,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Two,NA
+107465,Hubert Schsser,M,27,177,85,Austria-1,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+107465,Hubert Schsser,M,31,177,85,Austria-1,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+107562,Thomas Schroll,M,26,183,87,Austria-2,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Two,NA
+107562,Thomas Schroll,M,26,183,87,Austria-1,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,Gold
+107562,Thomas Schroll,M,28,183,87,Austria-1,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Two,NA
+107572,Karl Schrott,M,27,174,77,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Mixed (Men)'s Doubles,Bronze
+107623,Franz Schuler,M,21,183,66,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 20 kilometres,NA
+107623,Franz Schuler,M,21,183,66,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+107623,Franz Schuler,M,25,183,66,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+107623,Franz Schuler,M,25,183,66,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 20 kilometres,NA
+107623,Franz Schuler,M,25,183,66,Austria,AUT,1988 Winter,1988,Winter,Calgary,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+107623,Franz Schuler,M,29,183,66,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+107623,Franz Schuler,M,29,183,66,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 20 kilometres,NA
+107623,Franz Schuler,M,29,183,66,Austria,AUT,1992 Winter,1992,Winter,Albertville,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+107623,Franz Schuler,M,31,183,66,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+107623,Franz Schuler,M,31,183,66,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 20 kilometres,NA
+107623,Franz Schuler,M,31,183,66,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+107773,"Stefanie ""Steffi"" Schuster",F,24,170,60,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Super G,NA
+107773,"Stefanie ""Steffi"" Schuster",F,28,170,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+107773,"Stefanie ""Steffi"" Schuster",F,28,170,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Super G,NA
+107773,"Stefanie ""Steffi"" Schuster",F,28,170,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+107773,"Stefanie ""Steffi"" Schuster",F,28,170,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Women's Combined,NA
+107801,Martin Schtzenauer,M,29,179,87,Austria-2,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,NA
+107801,Martin Schtzenauer,M,31,179,87,Austria-2,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Two,NA
+107801,Martin Schtzenauer,M,31,179,87,Austria-2,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+107801,Martin Schtzenauer,M,35,179,87,Austria-1,AUT,1998 Winter,1998,Winter,Nagano,Bobsleigh,Bobsleigh Men's Four,NA
+107801,Martin Schtzenauer,M,39,179,87,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Bobsleigh,Bobsleigh Men's Two,NA
+107801,Martin Schtzenauer,M,39,179,87,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Bobsleigh,Bobsleigh Men's Four,NA
+107852,Alois Schwarz,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+107852,Alois Schwarz,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+107852,Alois Schwarz,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+107852,Alois Schwarz,M,22,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+107852,Alois Schwarz,M,26,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+107852,Alois Schwarz,M,26,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+107865,Nathalie Schwarz,F,20,161,54,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's Sprint,NA
+107865,Nathalie Schwarz,F,20,161,54,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+107865,Nathalie Schwarz,F,20,161,54,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 4 x 5 kilometres Relay,NA
+107882,Reinhard Schwarzenberger,M,21,172,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+107882,Reinhard Schwarzenberger,M,21,172,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+107882,Reinhard Schwarzenberger,M,21,172,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+108087,"Thomas ""Tom"" Searle",M,34,181,86,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+108087,"Thomas ""Tom"" Searle",M,38,181,86,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+108210,Klaus Seelos,M,32,178,92,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Bobsleigh,Bobsleigh Men's Four,NA
+108210,Klaus Seelos,M,36,178,92,Austria-1,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Two,NA
+108210,Klaus Seelos,M,36,178,92,Austria,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Four,NA
+108412,"Krunoslav ""Kuno"" Sekulic",M,22,178,81,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+108965,Oliver Setzinger,M,18,184,95,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+108965,Oliver Setzinger,M,30,184,95,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+109431,"Michael ""Mike"" Shea",M,26,181,89,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+109431,"Michael ""Mike"" Shea",M,32,181,89,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+110279,Franz Siegl,M,28,NA,NA,Austria-2,AUT,1984 Winter,1984,Winter,Sarajevo,Bobsleigh,Bobsleigh Men's Four,NA
+110279,Franz Siegl,M,32,NA,NA,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+111468,Leopold Sivec,M,25,175,82,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+112509,Katerina Smutna,F,26,171,58,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Cross Country Skiing,Cross Country Skiing Women's Sprint,NA
+112509,Katerina Smutna,F,26,171,58,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Cross Country Skiing,Cross Country Skiing Women's 30 kilometres,NA
+112509,Katerina Smutna,F,26,171,58,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Cross Country Skiing,Cross Country Skiing Women's 15 km Skiathlon,NA
+112509,Katerina Smutna,F,30,171,58,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+112509,Katerina Smutna,F,30,171,58,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 15 km Skiathlon,NA
+112509,Katerina Smutna,F,30,171,58,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 4 x 5 kilometres Relay,NA
+112509,Katerina Smutna,F,30,171,58,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's Team Sprint,NA
+112938,Lea Slkner,F,21,164,65,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+112938,Lea Slkner,F,21,164,65,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+112938,Lea Slkner,F,25,164,65,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+112938,Lea Slkner,F,25,164,65,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+113063,Angel Somov,M,23,190,98,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Men's Four,NA
+113805,Fritz Sperling,M,34,190,94,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Two,NA
+113805,Fritz Sperling,M,34,190,94,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+113931,Christine Sponring,F,18,168,66,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+113931,Christine Sponring,F,18,168,66,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Women's Combined,NA
+114142,Robert Stadelmann,M,22,NA,NA,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Individual,NA
+114155,Alois Stadlober,M,21,183,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+114155,Alois Stadlober,M,21,183,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+114155,Alois Stadlober,M,21,183,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+114155,Alois Stadlober,M,25,183,73,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+114155,Alois Stadlober,M,25,183,73,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+114155,Alois Stadlober,M,25,183,73,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+114155,Alois Stadlober,M,25,183,73,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+114155,Alois Stadlober,M,29,183,73,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+114155,Alois Stadlober,M,29,183,73,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+114155,Alois Stadlober,M,29,183,73,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+114155,Alois Stadlober,M,29,183,73,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+114155,Alois Stadlober,M,31,183,73,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+114155,Alois Stadlober,M,31,183,73,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+114155,Alois Stadlober,M,31,183,73,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+114155,Alois Stadlober,M,35,183,73,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+114155,Alois Stadlober,M,35,183,73,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+114155,Alois Stadlober,M,35,183,73,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+114155,Alois Stadlober,M,35,183,73,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+114156,Teresa Stadlober,F,21,168,52,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 30 kilometres,NA
+114156,Teresa Stadlober,F,21,168,52,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 15 km Skiathlon,NA
+114156,Teresa Stadlober,F,21,168,52,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's 4 x 5 kilometres Relay,NA
+114156,Teresa Stadlober,F,21,168,52,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Women's Team Sprint,NA
+114265,Wolfgang Stampfer,M,29,191,98,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Bobsleigh,Bobsleigh Men's Two,NA
+114265,Wolfgang Stampfer,M,29,191,98,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Bobsleigh,Bobsleigh Men's Four,NA
+114265,Wolfgang Stampfer,M,33,191,98,Austria-1,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Two,NA
+114265,Wolfgang Stampfer,M,33,191,98,Austria,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Four,NA
+114265,Wolfgang Stampfer,M,37,191,98,Austria-1,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Two,NA
+114265,Wolfgang Stampfer,M,37,191,98,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Four,NA
+114294,Johann Standmann,M,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+114294,Johann Standmann,M,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+114294,Johann Standmann,M,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+114294,Johann Standmann,M,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+114295,Martin Standmann,M,23,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+114295,Martin Standmann,M,23,NA,NA,Austria,AUT,1992 Winter,1992,Winter,Albertville,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+114310,Thomas Stangassinger,M,22,180,82,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+114310,Thomas Stangassinger,M,22,180,82,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Combined,NA
+114310,Thomas Stangassinger,M,26,180,82,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+114310,Thomas Stangassinger,M,28,180,82,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Slalom,Gold
+114310,Thomas Stangassinger,M,32,180,82,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+114340,Brian Stankiewicz,M,31,180,80,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+114340,Brian Stankiewicz,M,37,180,80,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+114428,Bernhard Starkbaum,M,27,186,93,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+114518,Christina Staudinger,F,26,158,60,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Women's Ski Cross,NA
+114572,Mario Stecher,M,16,177,62,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Team,NA
+114572,Mario Stecher,M,16,177,62,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Nordic Combined,Nordic Combined Men's Individual,NA
+114572,Mario Stecher,M,20,177,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Team,NA
+114572,Mario Stecher,M,20,177,62,Austria,AUT,1998 Winter,1998,Winter,Nagano,Nordic Combined,Nordic Combined Men's Individual,NA
+114572,Mario Stecher,M,24,177,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Team,Bronze
+114572,Mario Stecher,M,24,177,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Individual,NA
+114572,Mario Stecher,M,24,177,62,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Nordic Combined,Nordic Combined Men's Sprint,NA
+114572,Mario Stecher,M,28,177,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Team,Gold
+114572,Mario Stecher,M,28,177,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Individual,NA
+114572,Mario Stecher,M,28,177,62,Austria,AUT,2006 Winter,2006,Winter,Torino,Nordic Combined,Nordic Combined Men's Sprint,NA
+114572,Mario Stecher,M,32,177,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+114572,Mario Stecher,M,32,177,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",NA
+114572,Mario Stecher,M,32,177,62,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Nordic Combined,Nordic Combined Men's Team,Gold
+114572,Mario Stecher,M,36,177,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Normal Hill / 10 km, Individual",NA
+114572,Mario Stecher,M,36,177,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,"Nordic Combined Men's Large Hill / 10 km, Individual",NA
+114572,Mario Stecher,M,36,177,62,Austria,AUT,2014 Winter,2014,Winter,Sochi,Nordic Combined,Nordic Combined Men's Team,Bronze
+114783,Heinz Steinberger,M,25,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+114783,Heinz Steinberger,M,25,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+114797,Anton Steiner,M,21,170,73,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+114797,Anton Steiner,M,21,170,73,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+114797,Anton Steiner,M,25,170,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Downhill,Bronze
+114797,Anton Steiner,M,25,170,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+114797,Anton Steiner,M,25,170,73,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+114797,Anton Steiner,M,29,170,73,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+114809,Manfred Steiner,M,21,NA,NA,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+114812,Roswitha Steiner (-Stadlober),F,20,171,63,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+114812,Roswitha Steiner (-Stadlober),F,20,171,63,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+114812,Roswitha Steiner (-Stadlober),F,24,171,63,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+115295,Leonhard Stock,M,21,183,84,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Downhill,Gold
+115295,Leonhard Stock,M,21,183,84,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+115295,Leonhard Stock,M,21,183,84,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+115295,Leonhard Stock,M,29,183,84,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+115295,Leonhard Stock,M,29,183,84,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Super G,NA
+115295,Leonhard Stock,M,33,183,84,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+115313,Martin Stockinger,M,22,172,72,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's Sprint,NA
+115315,Ingrid Stckl,F,24,165,64,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+115315,Ingrid Stckl,F,24,165,64,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Combined,NA
+115657,Gnther Stranner,M,20,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+115657,Gnther Stranner,M,20,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+115657,Gnther Stranner,M,20,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+115742,Georg Streitberger,M,28,185,94,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Super G,NA
+115742,Georg Streitberger,M,28,185,94,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Combined,NA
+115742,Georg Streitberger,M,32,185,94,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+115742,Georg Streitberger,M,32,185,94,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Super G,NA
+115772,Otmar Striedinger,M,22,184,91,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Super G,NA
+115772,Otmar Striedinger,M,22,184,91,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Men's Combined,NA
+115800,Claudia Strobl,F,26,165,63,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+115801,Fritz Strobl,M,25,187,95,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+115801,Fritz Strobl,M,29,187,95,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Downhill,Gold
+115801,Fritz Strobl,M,29,187,95,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Super G,NA
+115801,Fritz Strobl,M,33,187,95,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+115823,Hubert Strolz,M,21,182,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+115823,Hubert Strolz,M,21,182,76,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+115823,Hubert Strolz,M,25,182,76,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Super G,NA
+115823,Hubert Strolz,M,25,182,76,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Giant Slalom,Silver
+115823,Hubert Strolz,M,25,182,76,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Men's Combined,Gold
+115823,Hubert Strolz,M,29,182,76,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Super G,NA
+115823,Hubert Strolz,M,29,182,76,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Giant Slalom,NA
+115823,Hubert Strolz,M,29,182,76,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+115823,Hubert Strolz,M,29,182,76,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Combined,NA
+115845,"Kenneth ""Ken"" Strong",M,30,180,83,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+116402,Reinhold Sulzbacher,M,35,170,70,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Mixed (Men)'s Doubles,NA
+116404,Klaus Sulzenbacher,M,19,186,67,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Nordic Combined,Nordic Combined Men's Individual,NA
+116404,Klaus Sulzenbacher,M,23,186,67,Austria,AUT,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Team,Bronze
+116404,Klaus Sulzenbacher,M,23,186,67,Austria,AUT,1988 Winter,1988,Winter,Calgary,Nordic Combined,Nordic Combined Men's Individual,Silver
+116404,Klaus Sulzenbacher,M,27,186,67,Austria,AUT,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Team,Bronze
+116404,Klaus Sulzenbacher,M,27,186,67,Austria,AUT,1992 Winter,1992,Winter,Albertville,Nordic Combined,Nordic Combined Men's Individual,Bronze
+116407,Cornelia Sulzer,F,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 5 kilometres,NA
+116407,Cornelia Sulzer,F,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+116407,Cornelia Sulzer,F,24,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 20 kilometres,NA
+116408,"Johann ""Hans"" Sulzer",M,18,175,83,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+116413,Christoph Sumann,M,26,182,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+116413,Christoph Sumann,M,26,182,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 20 kilometres,NA
+116413,Christoph Sumann,M,26,182,80,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+116413,Christoph Sumann,M,30,182,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+116413,Christoph Sumann,M,30,182,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+116413,Christoph Sumann,M,30,182,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+116413,Christoph Sumann,M,30,182,80,Austria,AUT,2006 Winter,2006,Winter,Torino,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+116413,Christoph Sumann,M,34,182,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+116413,Christoph Sumann,M,34,182,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,Silver
+116413,Christoph Sumann,M,34,182,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+116413,Christoph Sumann,M,34,182,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 20 kilometres,NA
+116413,Christoph Sumann,M,34,182,80,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Silver
+116413,Christoph Sumann,M,38,182,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+116413,Christoph Sumann,M,38,182,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 12.5 kilometres Pursuit,NA
+116413,Christoph Sumann,M,38,182,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 15 kilometres Mass Start,NA
+116413,Christoph Sumann,M,38,182,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 20 kilometres,NA
+116413,Christoph Sumann,M,38,182,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,Bronze
+117218,Thomas Sykora,M,25,190,88,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Slalom,NA
+117218,Thomas Sykora,M,29,190,88,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Slalom,Bronze
+117645,"Silvester ""Silvio"" Szybisti",M,26,NA,NA,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+117801,Andrea Tagwerker,F,17,170,69,Austria,AUT,1988 Winter,1988,Winter,Calgary,Luge,Luge Women's Singles,NA
+117801,Andrea Tagwerker,F,21,170,69,Austria,AUT,1992 Winter,1992,Winter,Albertville,Luge,Luge Women's Singles,NA
+117801,Andrea Tagwerker,F,23,170,69,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Luge,Luge Women's Singles,Bronze
+117801,Andrea Tagwerker,F,27,170,69,Austria,AUT,1998 Winter,1998,Winter,Nagano,Luge,Luge Women's Singles,NA
+118764,Martin Tauber,M,29,175,65,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+118764,Martin Tauber,M,29,175,65,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 30 km Skiathlon,NA
+118764,Martin Tauber,M,29,175,65,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+119039,Kurt Teigl,M,26,NA,NA,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+119158,Magnus Marnix Victor ten Kortenaar,M,27,189,93,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Men's 1,500 metres",NA
+119158,Magnus Marnix Victor ten Kortenaar,M,27,189,93,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Men's 5,000 metres",NA
+119158,Magnus Marnix Victor ten Kortenaar,M,27,189,93,Austria,AUT,1998 Winter,1998,Winter,Nagano,Speed Skating,"Speed Skating Men's 10,000 metres",NA
+119619,Maria Elisabeth Theurl (-Walcher),F,21,164,53,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 5 kilometres,NA
+119619,Maria Elisabeth Theurl (-Walcher),F,21,164,53,Austria,AUT,1988 Winter,1988,Winter,Calgary,Cross Country Skiing,Cross Country Skiing Women's 10 kilometres,NA
+119619,Maria Elisabeth Theurl (-Walcher),F,31,164,53,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Women's 5 kilometres,NA
+119619,Maria Elisabeth Theurl (-Walcher),F,31,164,53,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Women's 30 kilometres,NA
+119619,Maria Elisabeth Theurl (-Walcher),F,31,164,53,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Women's 5/10 kilometres Pursuit,NA
+121707,Matthias Trattnig,M,22,185,96,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+121707,Matthias Trattnig,M,34,185,96,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+121894,Luca Tribondeau,M,17,181,74,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Slopestyle,NA
+121940,Hannes Trinkl,M,26,183,90,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+121940,Hannes Trinkl,M,26,183,90,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Men's Super G,NA
+121940,Hannes Trinkl,M,30,183,90,Austria,AUT,1998 Winter,1998,Winter,Nagano,Alpine Skiing,Alpine Skiing Men's Downhill,Bronze
+121966,Bernhard Tritscher,M,25,175,72,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's Sprint,NA
+121966,Bernhard Tritscher,M,25,175,72,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+121967,Michael Tritscher,M,26,180,83,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Men's Slalom,Bronze
+122474,Alexandra Tchi,F,20,180,78,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Women's Two,NA
+123265,Stefan Ulmer,M,23,175,80,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+123273,Martin Ulrich,M,24,188,95,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+123273,Martin Ulrich,M,28,188,95,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+123273,Martin Ulrich,M,32,188,95,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+123363,Anton Unterkofler,M,30,186,85,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+123363,Anton Unterkofler,M,30,186,85,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Parallel Slalom,NA
+123365,Gerhard Unterluggauer,M,21,177,93,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+123365,Gerhard Unterluggauer,M,25,177,93,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+123365,Gerhard Unterluggauer,M,37,177,93,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+123366,Hans Jrg Unterrainer,M,25,183,83,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Boardercross,NA
+123400,Gerhard Urain,M,25,187,84,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+123400,Gerhard Urain,M,25,187,84,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+123400,Gerhard Urain,M,25,187,84,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+123400,Gerhard Urain,M,25,187,84,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+123400,Gerhard Urain,M,29,187,84,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,NA
+123400,Gerhard Urain,M,29,187,84,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+123400,Gerhard Urain,M,29,187,84,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+125123,Thomas Vanek,M,30,187,95,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+126247,Ernst Vettori,M,19,167,55,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+126247,Ernst Vettori,M,23,167,55,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+126247,Ernst Vettori,M,23,167,55,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+126247,Ernst Vettori,M,23,167,55,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+126247,Ernst Vettori,M,27,167,55,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",Gold
+126247,Ernst Vettori,M,27,167,55,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+126247,Ernst Vettori,M,27,167,55,Austria,AUT,1992 Winter,1992,Winter,Albertville,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Silver
+127789,Anita Wachter (-Salzgeber),F,21,164,50,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+127789,Anita Wachter (-Salzgeber),F,21,164,50,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Super G,NA
+127789,Anita Wachter (-Salzgeber),F,21,164,50,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+127789,Anita Wachter (-Salzgeber),F,21,164,50,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+127789,Anita Wachter (-Salzgeber),F,21,164,50,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Combined,Gold
+127789,Anita Wachter (-Salzgeber),F,24,164,50,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Super G,NA
+127789,Anita Wachter (-Salzgeber),F,24,164,50,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Giant Slalom,Silver
+127789,Anita Wachter (-Salzgeber),F,24,164,50,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Combined,Silver
+127789,Anita Wachter (-Salzgeber),F,27,164,50,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Super G,NA
+127789,Anita Wachter (-Salzgeber),F,27,164,50,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+127789,Anita Wachter (-Salzgeber),F,27,164,50,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+127962,Christoph Wahrsttter,M,24,177,81,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,NA
+128029,Achim Walcher,M,30,187,77,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10 kilometres,NA
+128029,Achim Walcher,M,30,187,77,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 50 kilometres,NA
+128029,Achim Walcher,M,30,187,77,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 10/15 kilometres Pursuit,NA
+128029,Achim Walcher,M,30,187,77,Austria,AUT,1998 Winter,1998,Winter,Nagano,Cross Country Skiing,Cross Country Skiing Men's 4 x 10 kilometres Relay,NA
+128029,Achim Walcher,M,34,187,77,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 30 kilometres,NA
+128029,Achim Walcher,M,34,187,77,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Cross Country Skiing,Cross Country Skiing Men's 10/10 kilometres Pursuit,NA
+128031,Michael Walchhofer,M,26,192,100,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Alpine Skiing,Alpine Skiing Men's Combined,NA
+128031,Michael Walchhofer,M,30,192,100,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Downhill,Silver
+128031,Michael Walchhofer,M,30,192,100,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Men's Combined,NA
+128031,Michael Walchhofer,M,34,192,100,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+128031,Michael Walchhofer,M,34,192,100,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Men's Super G,NA
+128044,Harald Walder,M,32,175,75,Austria,AUT,2006 Winter,2006,Winter,Torino,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+128045,Ingemar Walder,M,31,177,82,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Snowboarding,Snowboarding Men's Parallel Giant Slalom,NA
+128224,Veronika Wallinger-Stallmaier,F,17,170,59,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+128224,Veronika Wallinger-Stallmaier,F,17,170,59,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+128224,Veronika Wallinger-Stallmaier,F,25,170,59,Austria,AUT,1992 Winter,1992,Winter,Albertville,Alpine Skiing,Alpine Skiing Women's Downhill,Bronze
+128224,Veronika Wallinger-Stallmaier,F,27,170,59,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+128224,Veronika Wallinger-Stallmaier,F,27,170,59,Austria,AUT,1994 Winter,1994,Winter,Lillehammer,Alpine Skiing,Alpine Skiing Women's Super G,NA
+128236,Hans Wallner,M,30,174,64,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+128236,Hans Wallner,M,30,174,64,Austria,AUT,1984 Winter,1984,Winter,Sarajevo,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+129125,Franz-Josef Weber,M,27,184,77,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 10 kilometres Sprint,NA
+129125,Franz-Josef Weber,M,27,184,77,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Biathlon,Biathlon Men's 4 x 7.5 kilometres Relay,NA
+129410,"Hartmann ""Harti"" Weirather",M,22,178,77,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Downhill,NA
+129435,Mathias Weienbacher,M,22,173,73,Austria,AUT,2014 Winter,2014,Winter,Sochi,Snowboarding,Snowboarding Men's Slopestyle,NA
+129555,Daniel Welser,M,30,180,86,Austria,AUT,2014 Winter,2014,Winter,Sochi,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+129583,Hans-Peter Welz,M,30,184,85,Austria,AUT,2006 Winter,2006,Winter,Torino,Bobsleigh,Bobsleigh Men's Four,NA
+129932,Simon Wheeldon,M,31,183,84,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+129932,Simon Wheeldon,M,35,183,84,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
+130172,Andreas Widhlzl,M,21,180,64,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",Bronze
+130172,Andreas Widhlzl,M,21,180,64,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+130172,Andreas Widhlzl,M,21,180,64,Austria,AUT,1998 Winter,1998,Winter,Nagano,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Bronze
+130172,Andreas Widhlzl,M,25,180,64,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+130172,Andreas Widhlzl,M,25,180,64,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+130172,Andreas Widhlzl,M,25,180,64,Austria,AUT,2002 Winter,2002,Winter,Salt Lake City,Ski Jumping,"Ski Jumping Men's Large Hill, Team",NA
+130172,Andreas Widhlzl,M,29,180,64,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Normal Hill, Individual",NA
+130172,Andreas Widhlzl,M,29,180,64,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Individual",NA
+130172,Andreas Widhlzl,M,29,180,64,Austria,AUT,2006 Winter,2006,Winter,Torino,Ski Jumping,"Ski Jumping Men's Large Hill, Team",Gold
+130435,Franz Wilhelmer,M,19,177,79,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Luge,Luge Men's Singles,NA
+130435,Franz Wilhelmer,M,23,177,79,Austria-1,AUT,1984 Winter,1984,Winter,Sarajevo,Luge,Luge Mixed (Men)'s Doubles,NA
+130962,Veronika Windisch,F,27,162,56,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Short Track Speed Skating,"Short Track Speed Skating Women's 1,000 metres",NA
+130962,Veronika Windisch,F,27,162,56,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Short Track Speed Skating,"Short Track Speed Skating Women's 1,500 metres",NA
+130962,Veronika Windisch,F,31,162,56,Austria,AUT,2014 Winter,2014,Winter,Sochi,Short Track Speed Skating,Short Track Speed Skating Women's 500 metres,NA
+130962,Veronika Windisch,F,31,162,56,Austria,AUT,2014 Winter,2014,Winter,Sochi,Short Track Speed Skating,"Short Track Speed Skating Women's 1,000 metres",NA
+130962,Veronika Windisch,F,31,162,56,Austria,AUT,2014 Winter,2014,Winter,Sochi,Short Track Speed Skating,"Short Track Speed Skating Women's 1,500 metres",NA
+131001,Harald Winkler,M,25,195,90,Austria-1,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Two,NA
+131001,Harald Winkler,M,25,195,90,Austria-2,AUT,1988 Winter,1988,Winter,Calgary,Bobsleigh,Bobsleigh Men's Four,NA
+131001,Harald Winkler,M,29,195,90,Austria-1,AUT,1992 Winter,1992,Winter,Albertville,Bobsleigh,Bobsleigh Men's Four,Gold
+131001,Harald Winkler,M,31,195,90,Austria-1,AUT,1994 Winter,1994,Winter,Lillehammer,Bobsleigh,Bobsleigh Men's Four,NA
+131075,Johannes Wipplinger,M,31,188,109,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Bobsleigh,Bobsleigh Men's Four,NA
+131088,Peter Wirnsberger,M,21,180,77,Austria,AUT,1980 Winter,1980,Winter,Lake Placid,Alpine Skiing,Alpine Skiing Men's Downhill,Silver
+131137,Stefan Withalm,M,30,181,100,Austria,AUT,2014 Winter,2014,Winter,Sochi,Bobsleigh,Bobsleigh Men's Four,NA
+131178,Markus Wittner,M,36,174,84,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,NA
+131328,Sigrid Wolf,F,23,172,67,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Downhill,NA
+131328,Sigrid Wolf,F,23,172,67,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Super G,Gold
+131328,Sigrid Wolf,F,23,172,67,Austria,AUT,1988 Winter,1988,Winter,Calgary,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+131879,Harald Wurm,M,21,178,71,Austria,AUT,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's Sprint,NA
+131879,Harald Wurm,M,29,178,71,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's Sprint,NA
+131879,Harald Wurm,M,29,178,71,Austria,AUT,2014 Winter,2014,Winter,Sochi,Cross Country Skiing,Cross Country Skiing Men's Team Sprint,NA
+133942,Thomas Zangerl,M,26,181,81,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,NA
+133942,Thomas Zangerl,M,30,181,81,Austria,AUT,2014 Winter,2014,Winter,Sochi,Freestyle Skiing,Freestyle Skiing Men's Ski Cross,NA
+134088,Gerd Zaunschirm,M,24,183,83,Austria-1,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Two,NA
+134088,Gerd Zaunschirm,M,24,183,83,Austria-2,AUT,1980 Winter,1980,Winter,Lake Placid,Bobsleigh,Bobsleigh Men's Four,NA
+134217,Isabel Zedlacher,F,20,168,60,Austria,AUT,1998 Winter,1998,Winter,Nagano,Snowboarding,Snowboarding Women's Giant Slalom,NA
+134389,Kathrin Zettel,F,19,167,61,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+134389,Kathrin Zettel,F,19,167,61,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+134389,Kathrin Zettel,F,19,167,61,Austria,AUT,2006 Winter,2006,Winter,Torino,Alpine Skiing,Alpine Skiing Women's Combined,NA
+134389,Kathrin Zettel,F,23,167,61,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+134389,Kathrin Zettel,F,23,167,61,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Slalom,NA
+134389,Kathrin Zettel,F,23,167,61,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Alpine Skiing,Alpine Skiing Women's Combined,NA
+134389,Kathrin Zettel,F,27,167,61,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Giant Slalom,NA
+134389,Kathrin Zettel,F,27,167,61,Austria,AUT,2014 Winter,2014,Winter,Sochi,Alpine Skiing,Alpine Skiing Women's Slalom,Bronze
+134939,Miriam Ziegler,F,15,154,47,Austria,AUT,2010 Winter,2010,Winter,Vancouver,Figure Skating,Figure Skating Women's Singles,NA
+134939,Miriam Ziegler,F,19,154,47,Austria,AUT,2014 Winter,2014,Winter,Sochi,Figure Skating,Figure Skating Mixed Pairs,NA
+135170,Peter Znenahlik,M,24,176,82,Austria,AUT,1988 Winter,1988,Winter,Calgary,Ice Hockey,Ice Hockey Men's Ice Hockey,NA
