@@ -8,7 +8,8 @@ layout: page
 
 <dl>
     <dt class="red">Location:</dt>
-    <dd>{{ page.rdf | rdf_property: "dbo:location" }}</dd>
+    {% assign location = page.rdf | rdf_property: "dbo:location" %}
+    <dd><a href="{{ location.page_url | relative_url }}">{{ location | rdf_property: "rdfs:label" }}</a></dd>
 </dl>
 
 {% capture query %}
